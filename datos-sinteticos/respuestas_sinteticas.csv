@@ -1,0 +1,724 @@
+﻿id_resposta,periode,data,col·lectiu,centre_tipus,canal,benestar,carrega,comunicacio,reconeixement,descansos,segons_resposta,comentari_obert,tema_real,conte_pii_fictici
+r_00001,P2,2026-10-19,Planta - Turno de noche,Fabrica,Movil-QR,4,4,2,3,3,54,Entre un turno y otro casi no descanso :(,descansos,0
+r_00002,P1,2026-09-23,Oficina,Oficina,Correu,3,5,4,3,5,69,La apllicacion se cuelga a menudo,herramientas,0
+r_00003,P2,2026-10-17,Comercial,Oficina,Movil-QR,3,2,2,4,4,46,En general bien,otros,0
+r_00004,P2,2026-10-01,Planta,Fabrica,Movil-QR,5,4,3,4,1,39,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00005,P2,2026-10-07,Planta,Fabrica,Movil-QR,4,3,3,3,1,101,No tengo nada que anadir,otros,0
+r_00006,P1,2026-09-18,Comercial,Oficina,Correu,5,3,2,5,3,33,no tengo nada quue anadir,otros,0
+r_00007,P2,2026-10-22,Oficina,Oficina,Correu,5,5,2,4,3,89,me gustaria aprender cosas nuevas aqui,formacion,0
+r_00008,P2,2026-10-07,Logistica,Magatzem,Correu,4,3,4,5,3,51,Me gusta trabajar con mis companeros,ambiente,0
+r_00009,P2,2026-10-22,Comercial,Oficina,Movil-QR,4,4,4,3,4,67,me gusta trabajar con mis companeros,ambiente,0
+r_00010,P1,2026-09-17,Comercial,Oficina,Correu,4,2,3,3,4,76,se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00011,P2,2026-10-21,Oficina,Oficina,Correu,4,3,3,5,3,47,Me vendria bien poder teletrabajar algun dia :(,horarios,0
+r_00012,P2,2026-10-21,Manager,Oficina,Movil-QR,5,3,3,4,4,139,faltan herramientas para trabajar mas rapido,herramientas,0
+r_00013,P2,2026-10-10,Oficina,Oficina,Correu,2,3,3,4,5,113,La aplicacion se cuelga a menudo,herramientas,0
+r_00014,P2,2026-10-16,Logistica,Magatzem,Correu,4,4,2,5,3,287,Los cambios de turno nos  llegan tarde,comunicacion,0
+r_00015,P1,2026-09-28,Planta,Fabrica,Movil-QR,5,2,4,3,3,54,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00016,P1,2026-09-21,Planta,Fabrica,Movil-QR,4,3,5,4,2,39,falta informacion clara cuando cambia algo :(,comunicacion,0
+r_00017,P1,2026-09-17,Oficina,Oficina,Correu,5,4,4,4,5,82,"todo bien, sin comentarios",otros,0
+r_00018,P2,2026-10-15,Logistica,Magatzem,Teams,3,1,5,3,1,36,ok,otros,0
+r_00019,P1,2026-09-05,Planta,Fabrica,Correu,4,3,3,3,3,125,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00020,P2,2026-10-23,Planta - Turno de noche,Fabrica,Correu,4,3,4,3,3,53,La aplicacion se cuelga a menudo,herramientas,0
+r_00021,P1,2026-09-27,Planta,Fabrica,Movil-QR,4,1,4,4,2,78,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00022,P1,2026-09-06,Comercial,Oficina,Correu,2,3,3,2,4,59,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00023,P2,2026-10-27,Planta,Fabrica,Correu,4,4,4,5,2,78,echo en falta mas formacion,formacion,0
+r_00024,P1,2026-09-09,Planta,Fabrica,Movil-QR,4,2,5,3,3,65,Els descansos entre torns son massa curts,descansos,0
+r_00025,P1,2026-09-26,Comercial,Oficina,Movil-QR,4,4,3,5,4,28,"avisen antes de los cammbios, por favor...",comunicacion,0
+r_00026,P1,2026-09-25,Oficina,Oficina,Teams,2,3,3,4,2,63,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00027,P2,2026-10-14,Planta,Fabrica,Movil-QR,5,3,3,3,3,24,En general bien,otros,0
+r_00028,P2,2026-10-26,Planta,Fabrica,Movil-QR,2,4,3,3,3,69,Me gusta trabajar con mis companeros!!,ambiente,0
+r_00029,P2,2026-10-30,Logistica,Magatzem,Correu,3,4,2,3,2,82,El calendario de turnos sale muy tarde,turnos,0
+r_00030,P2,2026-10-30,Logistica,Magatzem,Movil-QR,4,3,3,4,2,25,me gusta trabajar con mis companeros,ambiente,0
+r_00031,P2,2026-10-01,Logistica,Magatzem,Movil-QR,3,2,5,4,3,60,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00032,P1,2026-09-12,Planta,Fabrica,Movil-QR,4,4,3,3,4,52,muy buen ambiente en el equipo,ambiente,0
+r_00033,P1,2026-09-04,Manager,Oficina,Teams,4,3,3,4,5,41,Echo en falta mas formacion,formacion,0
+r_00034,P2,2026-10-21,Oficina,Oficina,Teams,4,3,4,4,5,98,a veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00035,P1,2026-09-19,Planta,Fabrica,Movil-QR,3,4,4,4,4,137,No tengo nada que anadir,otros,0
+r_00036,P1,2026-09-23,Planta,Fabrica,Correu,5,3,1,2,4,71,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00037,P2,2026-10-02,Oficina,Oficina,Correu,4,5,3,5,1,62,El calendario de turnos sale muy tarde,turnos,0
+r_00038,P2,2026-10-01,Planta,Fabrica,Movil-QR,3,4,3,2,2,42,La rotacion de turnos no esta clara,turnos,0
+r_00039,P1,2026-09-05,Planta,Fabrica,Movil-QR,4,1,4,5,3,71,Me gusta trabajar con mis companeros,ambiente,0
+r_00040,P1,2026-09-18,Oficina,Oficina,Correu,5,5,4,5,3,34,"Todo bien, sin comentarios",otros,0
+r_00041,P2,2026-10-15,Planta,Fabrica,Teams,5,2,2,2,2,49,descansamos muy pocco al cambiar de tarde a manana,descansos,0
+r_00042,P2,2026-10-31,Planta,Fabrica,Movil-QR,3,2,1,2,3,66,Entre un turno y ootro casi no descanso,descansos,0
+r_00043,P1,2026-09-19,Planta,Fabrica,Movil-QR,4,3,5,3,2,36,faltan herrammientas para trabajar mas rapido,herramientas,0
+r_00044,P2,2026-10-14,Planta,Fabrica,Movil-QR,5,2,3,5,2,38,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00045,P1,2026-09-24,Manager,Oficina,Teams,5,5,3,5,5,75,Se nota companerismo en el dia a dia,ambiente,0
+r_00046,P2,2026-10-17,Manager,Oficina,Movil-QR,5,3,4,3,5,110,seria geniial tener mas flexibilidad horaria,horarios,0
+r_00047,P1,2026-09-14,Planta - Turno de noche,Fabrica,Correu,5,4,3,2,1,137,En general bien,otros,0
+r_00048,P2,2026-10-26,Comercial,Oficina,Teams,4,3,4,3,2,99,Se agradece que se  reconozca el trabajo bien hecho,reconocimiento,0
+r_00049,P2,2026-10-06,Planta,Fabrica,Movil-QR,2,3,2,4,3,169,El calendario de turnos sale muy tarde,turnos,0
+r_00050,P2,2026-10-18,Comercial,Oficina,Correu,4,4,4,4,4,26,Ok,otros,0
+r_00051,P2,2026-10-07,Planta,Fabrica,Movil-QR,3,5,2,3,3,53,Me gustaria aaprender cosas nuevas aqui,formacion,0
+r_00052,P2,2026-10-08,Comercial,Oficina,Movil-QR,4,4,4,4,3,97,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00053,P1,2026-09-12,Comercial,Oficina,Movil-QR,5,3,4,5,2,40,en generall bien,otros,0
+r_00054,P1,2026-09-24,Logistica,Magatzem,Movil-QR,5,4,4,4,3,52,echo en falta mas formacion.,formacion,0
+r_00055,P1,2026-09-30,Oficina,Oficina,Teams,4,4,4,4,2,131,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00056,P1,2026-09-04,Logistica,Magatzem,Movil-QR,3,2,2,3,2,32,Se nota companerismo en el dia a dia,ambiente,0
+r_00057,P1,2026-09-09,Manager,Oficina,Correu,4,5,4,3,4,89,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00058,P2,2026-10-14,Manager,Oficina,Teams,5,4,4,2,3,47,Se agradece que se recoonozca el trabajo bien hecho,reconocimiento,0
+r_00059,P1,2026-09-26,Comercial,Oficina,Movil-QR,4,4,4,4,4,134,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00060,P1,2026-09-07,Oficina,Oficina,Correu,4,3,5,5,5,95,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00061,P1,2026-09-05,Planta,Fabrica,Correu,4,4,3,3,2,75,El calendario de turnos sale muy tarde,turnos,0
+r_00062,P2,2026-10-06,Logistica,Magatzem,Movil-QR,5,4,3,4,2,72,El calendario de turnos sale muy tarde...,turnos,0
+r_00063,P1,2026-09-28,Manager,Oficina,Teams,5,2,4,3,4,116,No tengo nada que anadir,otros,0
+r_00064,P1,2026-09-19,Logistica,Magatzem,Teams,5,4,4,4,2,88,No tengo nada que anadir,otros,0
+r_00065,P2,2026-10-30,Planta,Fabrica,Movil-QR,4,3,3,4,2,26,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00066,P1,2026-09-16,Planta - Turno de noche,Fabrica,Movil-QR,4,3,2,3,1,66,Muy buen ambiente en el equipo,ambiente,0
+r_00067,P1,2026-09-15,Planta - Turno de noche,Fabrica,Correu,5,3,3,4,3,105,Echo en falta mas formacion,formacion,0
+r_00068,P1,2026-09-18,Logistica,Magatzem,Movil-QR,2,3,3,5,3,2,Ok,otros,0
+r_00069,P2,2026-10-18,Oficina,Oficina,Teams,5,3,3,4,3,154,El siistema de reservas va muy lento,herramientas,0
+r_00070,P2,2026-10-02,Comercial,Oficina,Teams,3,3,3,5,4,49,Faltan herramientas para trabajarr mas rapido,herramientas,0
+r_00071,P1,2026-09-21,Logistica,Magatzem,Correu,5,2,3,3,3,36,No tengo nada que anadir,otros,0
+r_00072,P1,2026-09-27,Comercial,Oficina,Movil-QR,4,3,3,4,3,51,se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00073,P1,2026-09-24,Manager,Oficina,Teams,3,4,3,2,3,59,El calendario de turnos sale muy tarde,turnos,0
+r_00074,P1,2026-09-29,Manager,Oficina,Teams,3,3,4,3,4,44,La aplicacion se cuelga a menudo,herramientas,0
+r_00075,P2,2026-10-06,Planta - Turno de noche,Fabrica,Movil-QR,3,2,4,2,1,101,Se nota companerismo en el dia a dia,ambiente,0
+r_00076,P1,2026-09-15,Comercial,Oficina,Correu,3,3,3,5,4,50,la aplicaciion se cuelga a menudo,herramientas,0
+r_00077,P2,2026-10-16,Planta,Fabrica,Movil-QR,4,4,3,3,4,36,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00078,P1,2026-09-25,Planta,Fabrica,Movil-QR,2,3,2,4,2,91,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00079,P2,2026-10-09,Comercial,Oficina,Movil-QR,3,4,2,4,4,33,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00080,P1,2026-09-07,Comercial,Oficina,Correu,5,2,2,2,3,116,No tengo nada que anadir,otros,0
+r_00081,P2,2026-10-13,Logistica,Magatzem,Teams,4,2,5,4,2,49,Echo en falta mas formacion,formacion,0
+r_00082,P2,2026-10-09,Comercial,Oficina,Teams,4,4,3,3,4,98,Ok,otros,0
+r_00083,P2,2026-10-15,Logistica,Magatzem,Correu,5,1,4,4,3,61,Descansamos muy pocoo al cambiar de tarde a manana,descansos,0
+r_00084,P2,2026-10-20,Comercial,Oficina,Movil-QR,4,5,3,2,3,93,Seria genial tener maas flexibilidad horaria,horarios,0
+r_00085,P1,2026-09-01,Comercial,Oficina,Correu,2,2,4,5,4,3,se nota companerismo en el dia a dia,ambiente,0
+r_00086,P1,2026-09-27,Logistica,Magatzem,Movil-QR,4,4,3,1,4,69,El calendario de turnos sale muy tarde,turnos,0
+r_00087,P1,2026-09-15,Planta,Fabrica,Movil-QR,4,4,3,2,2,43,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00088,P1,2026-09-24,Logistica,Magatzem,Correu,4,1,4,2,3,59,Se nota compannerismo en el dia a dia,ambiente,0
+r_00089,P1,2026-09-06,Planta,Fabrica,Movil-QR,4,4,3,2,1,29,Seria genial tener mas fllexibilidad horaria,horarios,0
+r_00090,P1,2026-09-04,Planta,Fabrica,Correu,2,2,2,4,2,96,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00091,P2,2026-10-02,Planta,Fabrica,Movil-QR,3,3,2,3,2,74,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00092,P1,2026-09-11,Logistica,Magatzem,Movil-QR,4,3,5,4,3,174,"todo bien, sin comentarios",otros,0
+r_00093,P1,2026-09-12,Planta,Fabrica,Correu,3,3,2,4,4,54,Muy buen ambiente en el equipo,ambiente,0
+r_00094,P1,2026-09-28,Planta,Fabrica,Movil-QR,3,1,2,2,2,43,"Todo bien, sin comentarios",otros,0
+r_00095,P1,2026-09-23,Planta,Fabrica,Correu,5,2,4,3,3,47,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00096,P1,2026-09-02,Logistica,Magatzem,Correu,2,3,3,1,5,86,descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00097,P2,2026-10-12,Comercial,Oficina,Movil-QR,2,2,3,3,4,43,La aplicacion se cuelga a menudo,herramientas,0
+r_00098,P2,2026-10-04,Planta,Fabrica,Correu,2,2,4,4,3,87,Muy buen ambiente en el equipo,ambiente,0
+r_00099,P1,2026-09-09,Comercial,Oficina,Correu,4,3,3,4,4,185,Ok,otros,0
+r_00100,P1,2026-09-03,Planta,Fabrica,Teams,4,3,3,4,2,56,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00101,P2,2026-10-24,Planta,Fabrica,Teams,3,5,4,4,4,40,Me gustaria aprender cosas nuevas aqui...,formacion,0
+r_00102,P2,2026-10-04,Logistica,Magatzem,Movil-QR,2,3,2,5,2,62,"Avisen antes de los cambios, por favvor",comunicacion,0
+r_00103,P2,2026-10-29,Oficina,Oficina,Correu,4,3,5,3,4,39,muy buen ambiente en el equipo,ambiente,0
+r_00104,P1,2026-09-20,Planta,Fabrica,Correu,5,2,4,3,3,106,Me gusta trabajar con mis companeros!!,ambiente,0
+r_00105,P2,2026-10-21,Logistica,Magatzem,Teams,3,2,3,2,3,45,En general biien!!,otros,0
+r_00106,P1,2026-09-02,Logistica,Magatzem,Movil-QR,5,4,3,3,5,137,Se nota companerismo en el dia a dia,ambiente,0
+r_00107,P1,2026-09-12,Oficina,Oficina,Correu,5,4,3,5,3,53,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00108,P2,2026-10-08,Manager,Oficina,Movil-QR,4,4,3,5,4,53,Ok,otros,0
+r_00109,P1,2026-09-14,Planta - Turno de noche,Fabrica,Movil-QR,3,4,3,2,5,215,seria  genial tener mas flexibilidad horaria,horarios,0
+r_00110,P1,2026-09-05,Manager,Oficina,Movil-QR,4,4,3,4,5,141,El sistema dde reservas va muy lento,herramientas,0
+r_00111,P2,2026-10-30,Comercial,Oficina,Correu,4,3,5,4,5,56,No  sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00112,P2,2026-10-04,Manager,Oficina,Correu,4,3,2,3,5,19,Me gusta trabajar con mis companeros,ambiente,0
+r_00113,P2,2026-10-20,Logistica,Magatzem,Correu,3,4,3,4,2,42,con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00114,P1,2026-09-12,Logistica,Magatzem,Teams,3,3,2,5,4,87,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00115,P2,2026-10-06,Planta - Turno de noche,Fabrica,Movil-QR,3,4,3,3,1,102,el sistema de reservas va muy lento,herramientas,0
+r_00116,P1,2026-09-03,Planta,Fabrica,Correu,4,4,2,3,2,55,no tengo nada que anadir,otros,0
+r_00117,P1,2026-09-17,Logistica,Magatzem,Movil-QR,3,2,2,3,3,41,ok,otros,0
+r_00118,P1,2026-09-19,Oficina,Oficina,Correu,4,4,4,5,3,250,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00119,P2,2026-10-03,Planta,Fabrica,Correu,5,2,4,5,1,43,Me gustaaria aprender cosas nuevas aqui,formacion,0
+r_00120,P1,2026-09-28,Planta,Fabrica,Correu,4,2,3,3,2,197,Me gusta trabajar con mis companeros,ambiente,0
+r_00121,P2,2026-10-22,Logistica,Magatzem,Movil-QR,4,3,3,3,2,63,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00122,P2,2026-10-23,Oficina,Oficina,Correu,2,3,3,2,2,79,"Todo bien, sin comentarios",otros,0
+r_00123,P1,2026-09-14,Logistica,Magatzem,Movil-QR,4,4,2,3,1,83,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00124,P2,2026-10-09,Planta,Fabrica,Movil-QR,5,4,4,4,3,37,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00125,P2,2026-10-29,Planta - Turno de noche,Fabrica,Correu,3,4,4,2,1,81,no sabemos que ha cambiado hasta el ultimo momento :(,comunicacion,0
+r_00126,P1,2026-09-14,Logistica,Magatzem,Correu,3,3,4,5,4,26,seria genial tener mas flexibilidad horaria,horarios,0
+r_00127,P2,2026-10-02,Manager,Oficina,Correu,4,3,3,3,4,75,"Todo bien, sin comentarios",otros,0
+r_00128,P1,2026-09-26,Planta,Fabrica,Correu,4,4,3,2,3,24,descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00129,P2,2026-10-03,Logistica,Magatzem,Movil-QR,3,3,4,2,1,96,El calendario de turnos sale muy tarde,turnos,0
+r_00130,P1,2026-09-21,Logistica,Magatzem,Movil-QR,4,3,4,4,5,94,Me gusta trabajar con mis companeros,ambiente,0
+r_00131,P1,2026-09-28,Logistica,Magatzem,Movil-QR,4,3,5,3,2,205,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00132,P1,2026-09-12,Oficina,Oficina,Correu,3,4,4,5,3,121,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00133,P2,2026-10-12,Comercial,Oficina,Movil-QR,5,4,4,3,4,157,"Todo bien, sin comentarios",otros,0
+r_00134,P1,2026-09-07,Logistica,Magatzem,Movil-QR,3,4,2,2,4,82,ok,otros,0
+r_00135,P1,2026-09-14,Planta,Fabrica,Movil-QR,4,4,3,3,3,73,echo en falta mas formacion,formacion,0
+r_00136,P2,2026-10-15,Planta,Fabrica,Movil-QR,2,4,4,2,2,108,No sabemos que ha cambiado hasta el ultimo momennto,comunicacion,0
+r_00137,P2,2026-10-12,Logistica,Magatzem,Movil-QR,3,1,3,4,3,246,Entre un turno y  otro casi no descanso,descansos,0
+r_00138,P1,2026-09-12,Logistica,Magatzem,Movil-QR,5,1,3,4,3,68,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00139,P1,2026-09-14,Comercial,Oficina,Correu,4,3,4,3,3,65,La aplicacionn se cuelga a menudo :(,herramientas,0
+r_00140,P2,2026-10-11,Planta,Fabrica,Movil-QR,3,3,3,3,3,96,La rotacion de turnos no esta clara...,turnos,0
+r_00141,P1,2026-09-16,Logistica,Magatzem,Correu,4,3,3,4,4,66,El sistema de reservas va muy lento,herramientas,0
+r_00142,P2,2026-10-10,Comercial,Oficina,Movil-QR,4,3,3,3,3,104,"avisen antes de los cambios, por favor.",comunicacion,0
+r_00143,P1,2026-09-24,Oficina,Oficina,Teams,1,1,4,4,4,94,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00144,P1,2026-09-21,Comercial,Oficina,Movil-QR,3,3,5,4,3,134,La aplicacion se cuelga a menudo,herramientas,0
+r_00145,P2,2026-10-21,Oficina,Oficina,Teams,5,3,3,4,4,145,El sistema de reservas va muy lento,herramientas,0
+r_00146,P1,2026-09-02,Planta,Fabrica,Movil-QR,4,4,2,3,3,35,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00147,P1,2026-09-25,Comercial,Oficina,Correu,3,3,4,4,5,108,Me gusta trabajar con mis companeros,ambiente,0
+r_00148,P2,2026-10-08,Logistica,Magatzem,Movil-QR,4,2,2,4,3,83,me gusta trabajar con mis companeros,ambiente,0
+r_00149,P1,2026-09-28,Comercial,Oficina,Correu,4,4,4,5,3,48,Echo en falta mas foormacion,formacion,0
+r_00150,P1,2026-09-16,Comercial,Oficina,Movil-QR,4,3,4,4,4,108,falta informacion clara cuando cambia algo,comunicacion,0
+r_00151,P1,2026-09-13,Planta,Fabrica,Correu,4,3,3,3,4,72,Me gustaria poder elegir mejor mmis turnos,turnos,0
+r_00152,P1,2026-09-26,Planta,Fabrica,Movil-QR,4,5,3,3,3,50,Se nota companerismo en el dia a dia,ambiente,0
+r_00153,P2,2026-10-11,Oficina,Oficina,Teams,5,4,4,4,4,52,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00154,P1,2026-09-25,Planta,Fabrica,Movil-QR,4,2,2,3,2,35,Me gusta trabajarr con mis companeros,ambiente,0
+r_00155,P1,2026-09-02,Logistica,Magatzem,Correu,4,2,2,3,3,147,ok,otros,0
+r_00156,P1,2026-09-13,Planta,Fabrica,Movil-QR,4,2,3,3,3,109,Els descaansos entre torns son massa curts,descansos,0
+r_00157,P1,2026-09-19,Comercial,Oficina,Movil-QR,3,3,5,4,3,93,"avisen antes de los cambios, por ffavor",comunicacion,0
+r_00158,P2,2026-10-10,Planta,Fabrica,Correu,4,4,2,4,1,71,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00159,P1,2026-09-04,Logistica,Magatzem,Correu,4,3,3,2,3,120,Se nota companerismo en el dia a dia,ambiente,0
+r_00160,P2,2026-10-29,Manager,Oficina,Correu,4,3,4,3,2,81,La rotacionn de turnos no esta clara,turnos,0
+r_00161,P2,2026-10-22,Logistica,Magatzem,Movil-QR,5,3,4,3,2,52,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00162,P2,2026-10-29,Manager,Oficina,Movil-QR,3,3,3,4,4,140,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00163,P2,2026-10-15,Manager,Oficina,Correu,4,4,4,4,5,68,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00164,P1,2026-09-29,Planta - Turno de noche,Fabrica,Movil-QR,3,2,4,4,3,77,el sistema de reservas va muy lento,herramientas,0
+r_00165,P2,2026-10-05,Oficina,Oficina,Correu,4,3,5,5,3,54,se nota companerismo en el dia a dia,ambiente,0
+r_00166,P1,2026-09-07,Oficina,Oficina,Movil-QR,2,3,5,3,3,45,La aplicacion se cuelga a menudo,herramientas,0
+r_00167,P1,2026-09-02,Manager,Oficina,Teams,5,5,3,3,3,82,En general bien,otros,0
+r_00168,P2,2026-10-31,Planta,Fabrica,Movil-QR,4,3,4,5,2,33,La aplicacion se cuelga a menudo,herramientas,0
+r_00169,P1,2026-09-13,Planta,Fabrica,Movil-QR,4,4,3,4,2,40,No tengo nada que anadir,otros,0
+r_00170,P1,2026-09-14,Oficina,Oficina,Movil-QR,4,3,3,3,5,45,En  general bien,otros,0
+r_00171,P2,2026-10-03,Comercial,Oficina,Movil-QR,3,2,3,5,3,139,Muy buen ambiente en el equipo...,ambiente,0
+r_00172,P2,2026-10-30,Comercial,Oficina,Correu,3,3,4,3,3,93,El sistema de reservas va muy lento,herramientas,0
+r_00173,P1,2026-09-14,Comercial,Oficina,Movil-QR,3,4,2,4,3,64,con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00174,P2,2026-10-14,Planta,Fabrica,Movil-QR,5,2,4,4,2,165,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00175,P1,2026-09-08,Comercial,Oficina,Correu,5,4,4,4,1,91,Me gusta trabajar con mis companeros,ambiente,0
+r_00176,P2,2026-10-26,Logistica,Magatzem,Correu,3,2,3,3,3,62,En generaal bien,otros,0
+r_00177,P1,2026-09-25,Planta,Fabrica,Correu,3,2,4,3,3,147,La aplicacion se cuelga a menudo,herramientas,0
+r_00178,P2,2026-10-24,Oficina,Oficina,Correu,3,4,3,3,3,99,me vendria bien poder teletrabajar algun dia!!,horarios,0
+r_00179,P2,2026-10-04,Logistica,Magatzem,Teams,2,3,2,2,3,39,Ok,otros,0
+r_00180,P2,2026-10-05,Oficina,Oficina,Movil-QR,3,5,3,4,3,64,En general biien,otros,0
+r_00181,P1,2026-09-26,Planta,Fabrica,Movil-QR,4,2,3,3,1,54,Muy buen ambiente en el equipo,ambiente,0
+r_00182,P2,2026-10-18,Comercial,Oficina,Movil-QR,3,2,3,5,4,153,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00183,P1,2026-09-21,Manager,Oficina,Correu,4,3,3,3,3,95,El sistema de reservas va muy lento,herramientas,0
+r_00184,P2,2026-10-16,Logistica,Magatzem,Movil-QR,3,3,4,1,4,64,en general bien,otros,0
+r_00185,P2,2026-10-24,Logistica,Magatzem,Movil-QR,3,3,2,2,2,69,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00186,P2,2026-10-18,Oficina,Oficina,Teams,4,5,4,4,3,148,Els descansos entre torns son massa curts,descansos,0
+r_00187,P2,2026-10-05,Logistica,Magatzem,Correu,5,3,4,1,3,83,con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00188,P1,2026-09-01,Logistica,Magatzem,Movil-QR,3,3,3,3,2,67,Se nota companerismo en el dia a dia,ambiente,0
+r_00189,P1,2026-09-04,Logistica,Magatzem,Correu,3,3,2,2,3,69,La aplicacion se cuelga a menudo,herramientas,0
+r_00190,P1,2026-09-25,Comercial,Oficina,Correu,4,2,3,4,3,42,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00191,P1,2026-09-05,Manager,Oficina,Teams,4,4,3,3,4,41,"todo bien, sin comentarios...",otros,0
+r_00192,P1,2026-09-09,Logistica,Magatzem,Correu,5,3,3,4,4,22,me gusta  trabajar con mis companeros,ambiente,0
+r_00193,P1,2026-09-25,Logistica,Magatzem,Movil-QR,4,3,5,5,4,46,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00194,P1,2026-09-06,Manager,Oficina,Correu,4,5,4,3,4,127,Me gusta trabajar con mis companeros,ambiente,0
+r_00195,P2,2026-10-17,Planta,Fabrica,Movil-QR,3,3,3,4,3,57,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00196,P2,2026-10-09,Planta,Fabrica,Movil-QR,4,3,4,2,2,48,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00197,P1,2026-09-22,Planta,Fabrica,Correu,4,3,3,2,3,84,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00198,P2,2026-10-02,Oficina,Oficina,Correu,5,5,4,2,5,49,Me gusta trabajar con mis companeros,ambiente,0
+r_00199,P1,2026-09-28,Logistica,Magatzem,Movil-QR,4,3,4,3,4,39,No sabemos que ha cambiado hasta eel ultimo momento :(,comunicacion,0
+r_00200,P1,2026-09-21,Logistica,Magatzem,Movil-QR,5,3,2,3,3,61,Muy buen ambiente en el equipo,ambiente,0
+r_00201,P2,2026-10-27,Oficina,Oficina,Correu,4,3,4,4,4,88,la aplicacion se cuelga a menudo,herramientas,0
+r_00202,P1,2026-09-14,Planta,Fabrica,Movil-QR,4,4,4,5,3,262,la rotacion de turnos no esta clara,turnos,0
+r_00203,P2,2026-10-14,Oficina,Oficina,Movil-QR,4,2,4,5,4,174,La aplicacion se cuelga a menudo,herramientas,0
+r_00204,P2,2026-10-29,Comercial,Oficina,Correu,5,3,2,4,3,35,El sistema de reservas va muy lento,herramientas,0
+r_00205,P1,2026-09-30,Logistica,Magatzem,Movil-QR,5,3,4,3,3,48,No tengo nada que anadir,otros,0
+r_00206,P2,2026-10-19,Planta,Fabrica,Correu,3,5,4,3,1,131,Els descansos entre torns son massa curts,descansos,0
+r_00207,P2,2026-10-15,Comercial,Oficina,Correu,4,3,2,4,5,51,Ok,otros,0
+r_00208,P1,2026-09-12,Comercial,Oficina,Correu,4,5,3,3,4,42,Me gusta trabajar con mis companeros,ambiente,0
+r_00209,P2,2026-10-06,Logistica,Magatzem,Correu,4,3,4,2,3,76,La rotacion de turnos no esta clara,turnos,0
+r_00210,P1,2026-09-05,Logistica,Magatzem,Movil-QR,3,2,5,4,5,77,Me gusta trabajar con mis companeros Hablad con Jordi Ferrer,ambiente,1
+r_00211,P2,2026-10-04,Planta,Fabrica,Movil-QR,4,3,4,4,3,35,No tengo nada que anadir,otros,0
+r_00212,P2,2026-10-20,Oficina,Oficina,Movil-QR,4,4,3,3,3,88,faltan herramientas para trrabajar mas rapido,herramientas,0
+r_00213,P2,2026-10-02,Oficina,Oficina,Movil-QR,5,5,3,4,3,133,La rotacion de turnos no esta clara,turnos,0
+r_00214,P1,2026-09-01,Oficina,Oficina,Correu,4,5,4,3,4,87,Muy buen ambiente en el equipo,ambiente,0
+r_00215,P1,2026-09-26,Planta,Fabrica,Teams,3,3,1,4,5,76,me gusta trabajjar con mis companeros,ambiente,0
+r_00216,P1,2026-09-02,Manager,Oficina,Teams,4,3,5,3,4,74,en general bien,otros,0
+r_00217,P2,2026-10-27,Logistica,Magatzem,Teams,4,3,2,3,3,115,Seria genial teneer mas flexibilidad horaria,horarios,0
+r_00218,P1,2026-09-26,Comercial,Oficina,Movil-QR,4,3,4,3,3,75,Se nota companerismo en el dia a dia!!,ambiente,0
+r_00219,P1,2026-09-10,Oficina,Oficina,Teams,4,1,5,3,4,42,"Todo bien, sin comentarios",otros,0
+r_00220,P2,2026-10-15,Planta,Fabrica,Movil-QR,5,3,4,4,4,85,Ok,otros,0
+r_00221,P2,2026-10-16,Planta,Fabrica,Teams,3,4,2,5,3,69,En general bien!!,otros,0
+r_00222,P2,2026-10-12,Planta,Fabrica,Teams,4,2,3,4,1,68,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00223,P2,2026-10-18,Logistica,Magatzem,Correu,3,3,4,3,2,61,Faltan herramientas para trabajar mmas rapido,herramientas,0
+r_00224,P1,2026-09-10,Planta,Fabrica,Correu,4,3,3,2,4,126,"Avisen antes de los cambios, por favor!!",comunicacion,0
+r_00225,P1,2026-09-26,Logistica,Magatzem,Movil-QR,4,2,4,3,3,55,el sistema de reservas va muy lento,herramientas,0
+r_00226,P2,2026-10-21,Comercial,Oficina,Teams,4,3,2,5,5,61,La aplicacion se cuelga a menudo,herramientas,0
+r_00227,P1,2026-09-28,Planta - Turno de noche,Fabrica,Correu,2,1,2,4,2,68,Me gusta trabajar con mis companeros...,ambiente,0
+r_00228,P2,2026-10-08,Comercial,Oficina,Movil-QR,2,5,5,4,3,59,muy buen ambiente en el equipo,ambiente,0
+r_00229,P1,2026-09-06,Oficina,Oficina,Movil-QR,4,3,3,5,2,48,ok,otros,0
+r_00230,P1,2026-09-25,Planta,Fabrica,Teams,4,4,4,3,2,54,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00231,P1,2026-09-02,Oficina,Oficina,Teams,2,3,5,5,5,104,muy bueen ambiente en el equipo,ambiente,0
+r_00232,P1,2026-09-09,Logistica,Magatzem,Correu,3,3,3,3,3,73,Me gusta trabajar con mis companeros.,ambiente,0
+r_00233,P2,2026-10-29,Manager,Oficina,Correu,3,5,3,4,4,93,El sistema de reservas va muyy lento,herramientas,0
+r_00234,P2,2026-10-15,Manager,Oficina,Correu,5,3,5,5,4,47,Ok,otros,0
+r_00235,P2,2026-10-28,Planta,Fabrica,Correu,3,2,3,5,2,71,descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00236,P1,2026-09-22,Comercial,Oficina,Correu,5,5,4,3,4,69,Echo en falta mas formacion,formacion,0
+r_00237,P2,2026-10-08,Logistica,Magatzem,Movil-QR,4,3,3,4,3,33,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00238,P2,2026-10-18,Comercial,Oficina,Correu,3,5,3,4,2,262,Ok,otros,0
+r_00239,P1,2026-09-14,Oficina,Oficina,Teams,5,5,5,4,3,35,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00240,P2,2026-10-13,Comercial,Oficina,Movil-QR,3,3,3,3,5,64,La rotacion de turnos no esta clara :(,turnos,0
+r_00241,P2,2026-10-24,Planta - Turno de noche,Fabrica,Movil-QR,5,2,4,4,2,38,Entre un turno y otro casi no desccanso,descansos,0
+r_00242,P2,2026-10-13,Planta,Fabrica,Movil-QR,4,4,5,4,2,91,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00243,P2,2026-10-04,Oficina,Oficina,Correu,3,4,4,3,4,50,la aplicacion se cuelga a menudo,herramientas,0
+r_00244,P2,2026-10-21,Comercial,Oficina,Teams,3,3,5,3,3,62,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00245,P2,2026-10-30,Oficina,Oficina,Correu,5,5,4,3,4,48,Se nota companerismo en el dia a dia,ambiente,0
+r_00246,P1,2026-09-07,Oficina,Oficina,Teams,3,2,3,5,4,113,me gustaria aprender cosaas nuevas aqui,formacion,0
+r_00247,P1,2026-09-28,Planta,Fabrica,Movil-QR,4,2,4,3,2,114,Me gusta trabajar con mis companeros,ambiente,0
+r_00248,P2,2026-10-14,Logistica,Magatzem,Movil-QR,4,4,5,3,2,69,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00249,P1,2026-09-23,Planta,Fabrica,Movil-QR,4,2,3,5,4,95,se nota companerismo en el dia a dia,ambiente,0
+r_00250,P1,2026-09-27,Logistica,Magatzem,Movil-QR,2,4,3,3,4,55,Muy buen ambiente en el equipo,ambiente,0
+r_00251,P1,2026-09-25,Planta,Fabrica,Correu,4,1,1,5,3,57,No tengo nada  que anadir,otros,0
+r_00252,P2,2026-10-07,Comercial,Oficina,Correu,4,3,4,4,5,68,Me vendria bien poder teletrabajar algun dia.,horarios,0
+r_00253,P1,2026-09-30,Logistica,Magatzem,Movil-QR,3,3,5,3,3,100,se nota companerismo en el dia a dia,ambiente,0
+r_00254,P1,2026-09-28,Oficina,Oficina,Correu,3,3,3,2,5,70,En general bien,otros,0
+r_00255,P2,2026-10-08,Planta,Fabrica,Movil-QR,5,2,3,4,1,155,ok,otros,0
+r_00256,P1,2026-09-11,Planta,Fabrica,Movil-QR,3,4,4,4,4,79,falta informacion clara cuando cambia algo,comunicacion,0
+r_00257,P2,2026-10-24,Planta,Fabrica,Movil-QR,3,5,3,2,2,86,La rotacion de turnos no esta clara,turnos,0
+r_00258,P2,2026-10-21,Logistica,Magatzem,Movil-QR,4,3,3,4,3,73,los cambios de turno nos llegan tarde,comunicacion,0
+r_00259,P2,2026-10-08,Planta,Fabrica,Movil-QR,3,3,4,4,3,110,els descansos entre torns son massa curts,descansos,0
+r_00260,P2,2026-10-05,Planta,Fabrica,Teams,5,3,3,3,2,30,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00261,P1,2026-09-28,Planta,Fabrica,Movil-QR,4,2,2,5,3,79,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00262,P1,2026-09-20,Planta,Fabrica,Movil-QR,4,3,2,4,3,78,Echo en faltaa mas formacion,formacion,0
+r_00263,P2,2026-10-04,Logistica,Magatzem,Movil-QR,3,4,3,3,1,101,Ok,otros,0
+r_00264,P2,2026-10-22,Logistica,Magatzem,Correu,3,3,4,3,2,94,"Todo bien, sin comenntarios",otros,0
+r_00265,P2,2026-10-03,Oficina,Oficina,Movil-QR,3,4,4,3,4,50,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00266,P1,2026-09-29,Comercial,Oficina,Correu,5,2,5,4,3,97,Se agradece que se reconozca el trabajo bien hecho :(,reconocimiento,0
+r_00267,P2,2026-10-12,Planta,Fabrica,Correu,2,4,3,2,2,68,Ok,otros,0
+r_00268,P2,2026-10-03,Logistica,Magatzem,Correu,4,5,1,2,2,203,Los cambios de turnno nos llegan tarde,comunicacion,0
+r_00269,P1,2026-09-01,Planta,Fabrica,Movil-QR,3,2,3,2,3,46,Me gusta trabajaar con mis companeros,ambiente,0
+r_00270,P2,2026-10-07,Oficina,Oficina,Correu,4,4,4,4,3,82,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00271,P1,2026-09-07,Oficina,Oficina,Teams,5,3,4,5,4,55,"Todo bien, sin comentarios",otros,0
+r_00272,P1,2026-09-25,Planta - Turno de noche,Fabrica,Movil-QR,3,3,3,3,3,54,"todo bien, sin comentarios",otros,0
+r_00273,P1,2026-09-26,Oficina,Oficina,Teams,5,4,3,2,5,31,La aplicacion se cuelga a menudo,herramientas,0
+r_00274,P1,2026-09-06,Oficina,Oficina,Teams,3,4,2,3,4,67,La rotacion de turnos no esta clara,turnos,0
+r_00275,P2,2026-10-15,Manager,Oficina,Movil-QR,3,5,4,3,4,96,El calendario de turnos salle muy tarde,turnos,0
+r_00276,P2,2026-10-06,Planta,Fabrica,Correu,4,4,4,3,2,55,Me gustaria aprender cosas nuevas aqui.,formacion,0
+r_00277,P1,2026-09-21,Comercial,Oficina,Correu,4,2,4,5,3,126,El sistema de reservas va muy lento,herramientas,0
+r_00278,P2,2026-10-23,Planta,Fabrica,Movil-QR,3,4,4,5,2,125,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00279,P1,2026-09-10,Comercial,Oficina,Correu,4,4,4,3,3,100,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00280,P2,2026-10-07,Oficina,Oficina,Correu,4,3,4,4,5,103,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00281,P1,2026-09-12,Comercial,Oficina,Movil-QR,4,4,3,3,3,168,ok,otros,0
+r_00282,P1,2026-09-28,Comercial,Oficina,Movil-QR,4,4,3,3,3,148,se agradece que se reconozca el trabajo bien hecho :(,reconocimiento,0
+r_00283,P2,2026-10-01,Logistica,Magatzem,Teams,4,3,3,4,2,81,a veces cuesta que se valore lo que hacemos.,reconocimiento,0
+r_00284,P1,2026-09-12,Oficina,Oficina,Teams,5,3,3,3,4,109,Entre un turno y otro casi no descanso,descansos,0
+r_00285,P1,2026-09-05,Oficina,Oficina,Teams,4,4,4,4,4,33,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00286,P1,2026-09-28,Planta,Fabrica,Movil-QR,2,2,3,1,4,61,"Todo bien, sin comentarios",otros,0
+r_00287,P2,2026-10-30,Manager,Oficina,Teams,3,2,4,3,4,121,no sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00288,P1,2026-09-08,Oficina,Oficina,Correu,4,3,5,3,3,77,Me gusta trabajar  con mis companeros,ambiente,0
+r_00289,P1,2026-09-18,Logistica,Magatzem,Movil-QR,3,4,2,2,4,27,Se  nota companerismo en el dia a dia.,ambiente,0
+r_00290,P2,2026-10-09,Comercial,Oficina,Movil-QR,4,4,4,3,5,88,seria genial tener mas flexibilidad horaria,horarios,0
+r_00291,P1,2026-09-24,Comercial,Oficina,Movil-QR,5,4,5,4,3,21,Muy buen ambiente en el equipo,ambiente,0
+r_00292,P2,2026-10-25,Comercial,Oficina,Teams,1,4,4,4,4,42,entre un turno y otro casi no descanso,descansos,0
+r_00293,P2,2026-10-15,Logistica,Magatzem,Correu,3,3,2,5,3,44,No sabemos que ha cammbiado hasta el ultimo momento,comunicacion,0
+r_00294,P1,2026-09-17,Logistica,Magatzem,Correu,4,2,3,2,3,84,el sistema de reservas va muy lento,herramientas,0
+r_00295,P1,2026-09-04,Logistica,Magatzem,Movil-QR,4,3,4,1,3,85,En general bien,otros,0
+r_00296,P2,2026-10-10,Planta - Turno de noche,Fabrica,Movil-QR,4,2,4,3,1,53,Me gusta trabajar con mis companeros!!,ambiente,0
+r_00297,P1,2026-09-19,Planta,Fabrica,Correu,4,1,1,4,3,120,Echo en falta mas formacion,formacion,0
+r_00298,P1,2026-09-25,Planta,Fabrica,Movil-QR,4,3,4,2,2,111,"avisen antes de los cambios, por favor",comunicacion,0
+r_00299,P2,2026-10-09,Planta,Fabrica,Movil-QR,5,3,3,5,4,68,con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00300,P2,2026-10-14,Comercial,Oficina,Correu,4,5,5,4,3,53,no tengo nada que anadir,otros,0
+r_00301,P2,2026-10-25,Comercial,Oficina,Correu,5,3,3,3,2,47,seria genial tener mas flexibilidad horaria,horarios,0
+r_00302,P2,2026-10-17,Logistica,Magatzem,Correu,3,2,3,4,2,164,me gustaria aprender cosaas nuevas aqui,formacion,0
+r_00303,P1,2026-09-25,Logistica,Magatzem,Correu,5,4,4,4,2,167,la rotacion de turnos no esta clara,turnos,0
+r_00304,P2,2026-10-29,Logistica,Magatzem,Correu,4,3,3,4,2,134,no  sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00305,P2,2026-10-19,Logistica,Magatzem,Movil-QR,4,4,4,4,2,115,me gusta trabajar con mis companeros,ambiente,0
+r_00306,P2,2026-10-19,Planta,Fabrica,Correu,2,4,4,5,2,71,la aplicacion se cuelga a menudo,herramientas,0
+r_00307,P2,2026-10-19,Planta,Fabrica,Correu,4,4,3,3,2,2,Me gusta trabajar con mis companeros,ambiente,0
+r_00308,P2,2026-10-13,Logistica,Magatzem,Movil-QR,5,2,2,3,1,43,El calendario de turnos sale muuy tarde,turnos,0
+r_00309,P1,2026-09-03,Comercial,Oficina,Correu,3,3,5,4,3,35,Me vendria bien poder telletrabajar algun dia,horarios,0
+r_00310,P2,2026-10-03,Planta,Fabrica,Correu,3,3,2,3,3,89,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00311,P2,2026-10-22,Planta,Fabrica,Correu,3,3,4,3,2,70,no tengo nada quee anadir,otros,0
+r_00312,P2,2026-10-06,Planta,Fabrica,Correu,4,3,4,3,2,2,Los cambiios de turno nos llegan tarde,comunicacion,0
+r_00313,P1,2026-09-29,Planta,Fabrica,Correu,4,3,1,2,2,48,a veces cuesta que se valore llo que hacemos,reconocimiento,0
+r_00314,P2,2026-10-11,Planta,Fabrica,Movil-QR,5,4,4,3,3,271,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00315,P2,2026-10-13,Logistica,Magatzem,Correu,4,3,2,3,3,49,La rotacion de turnos no estta clara,turnos,0
+r_00316,P1,2026-09-27,Manager,Oficina,Correu,4,3,5,3,4,75,Ok :(,otros,0
+r_00317,P2,2026-10-25,Planta - Turno de noche,Fabrica,Movil-QR,4,3,3,3,1,38,No tengo nada que anadir.,otros,0
+r_00318,P2,2026-10-13,Oficina,Oficina,Teams,4,3,5,4,3,32,El sistema de reservas va muy lento,herramientas,0
+r_00319,P2,2026-10-22,Planta,Fabrica,Movil-QR,3,3,3,3,3,85,Els descansos entre torns son massa curts,descansos,0
+r_00320,P2,2026-10-09,Logistica,Magatzem,Correu,2,4,4,4,1,101,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00321,P2,2026-10-30,Logistica,Magatzem,Correu,3,1,5,4,4,71,Ok,otros,0
+r_00322,P2,2026-10-30,Logistica,Magatzem,Movil-QR,4,4,3,4,3,87,El sistema de reservas va muy lento,herramientas,0
+r_00323,P1,2026-09-13,Logistica,Magatzem,Movil-QR,3,3,3,3,4,91,Els descansos entre torns son massa curts,descansos,0
+r_00324,P1,2026-09-09,Logistica,Magatzem,Correu,5,3,3,3,3,80,Falta informacion cclara cuando cambia algo,comunicacion,0
+r_00325,P2,2026-10-27,Logistica,Magatzem,Movil-QR,3,4,3,4,1,52,Entre un turno y otro casi no descanso,descansos,0
+r_00326,P2,2026-10-07,Logistica,Magatzem,Correu,4,4,3,4,4,82,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00327,P2,2026-10-02,Planta,Fabrica,Correu,5,4,3,4,2,90,No tengo nada que anadir,otros,0
+r_00328,P2,2026-10-07,Oficina,Oficina,Correu,4,3,4,3,3,76,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00329,P2,2026-10-27,Planta,Fabrica,Correu,5,3,4,3,2,133,Muy buen  ambiente en el equipo...,ambiente,0
+r_00330,P1,2026-09-19,Planta,Fabrica,Movil-QR,3,3,2,3,2,40,"Todo bien, sin comentarios",otros,0
+r_00331,P2,2026-10-24,Manager,Oficina,Teams,3,5,3,4,2,18,La aplicacion se cuelga a menudo.,herramientas,0
+r_00332,P2,2026-10-04,Oficina,Oficina,Correu,3,4,5,5,3,161,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00333,P2,2026-10-30,Planta,Fabrica,Movil-QR,4,4,4,3,4,116,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00334,P2,2026-10-26,Oficina,Oficina,Teams,4,3,4,3,3,191,Me gusta trabajar con mis companeros,ambiente,0
+r_00335,P2,2026-10-15,Comercial,Oficina,Correu,5,4,3,5,4,78,ok,otros,0
+r_00336,P1,2026-09-28,Planta,Fabrica,Movil-QR,4,3,4,3,4,84,els descansos entre torns son massa curts!!,descansos,0
+r_00337,P1,2026-09-19,Manager,Oficina,Correu,5,2,4,5,4,54,se nota companerismo en el dia a dia,ambiente,0
+r_00338,P2,2026-10-15,Planta,Fabrica,Movil-QR,2,2,2,3,2,90,Descansamos muy poco al cambiar de tarde a manana...,descansos,0
+r_00339,P1,2026-09-24,Logistica,Magatzem,Teams,3,3,4,5,1,43,Ok,otros,0
+r_00340,P1,2026-09-17,Manager,Oficina,Teams,3,3,2,3,3,106,Muy buen ambieente en el equipo,ambiente,0
+r_00341,P2,2026-10-25,Planta,Fabrica,Movil-QR,3,5,4,5,4,101,con tan poco descanso lllego cansado/a al siguiente turno,descansos,0
+r_00342,P2,2026-10-17,Comercial,Oficina,Correu,3,4,4,2,4,44,Me gusta trabajar con mis companeros,ambiente,0
+r_00343,P2,2026-10-01,Planta,Fabrica,Movil-QR,4,3,4,3,3,34,Los cambios de turno nos llegan tarde.,comunicacion,0
+r_00344,P2,2026-10-09,Comercial,Oficina,Teams,2,3,3,3,2,112,Muy buen ambiente en el equipo,ambiente,0
+r_00345,P1,2026-09-29,Oficina,Oficina,Movil-QR,3,5,3,3,3,46,falta informacion clara cuando cambia algo,comunicacion,0
+r_00346,P2,2026-10-12,Planta,Fabrica,Movil-QR,3,3,4,3,3,60,con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00347,P1,2026-09-02,Oficina,Oficina,Correu,4,4,4,5,3,37,me gusttaria poder elegir mejor mis turnos,turnos,0
+r_00348,P2,2026-10-01,Logistica,Magatzem,Correu,2,3,3,4,4,194,Els descansos entre ttorns son massa curts,descansos,0
+r_00349,P2,2026-10-04,Logistica,Magatzem,Correu,4,3,2,3,4,58,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00350,P1,2026-09-29,Planta,Fabrica,Correu,4,3,4,4,3,67,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00351,P2,2026-10-30,Logistica,Magatzem,Movil-QR,4,2,3,3,2,75,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00352,P1,2026-09-16,Logistica,Magatzem,Movil-QR,4,5,3,2,5,93,faltan herramientas para trabajar mas rapido,herramientas,0
+r_00353,P2,2026-10-10,Comercial,Oficina,Correu,3,4,5,4,2,73,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00354,P1,2026-09-13,Oficina,Oficina,Correu,5,5,3,4,3,49,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00355,P2,2026-10-27,Planta,Fabrica,Movil-QR,3,3,3,3,2,25,Con tan poco descanso llego cansado/a al siguiente turno Escribidme a marc.vidal@correo.example,descansos,1
+r_00356,P1,2026-09-05,Oficina,Oficina,Teams,4,4,3,4,5,163,se nota companerismo en el dia a dia,ambiente,0
+r_00357,P2,2026-10-28,Planta,Fabrica,Teams,3,2,4,2,2,119,los cambios de turno nos llegan tarde,comunicacion,0
+r_00358,P1,2026-09-14,Planta,Fabrica,Movil-QR,3,2,3,3,3,37,Els descansos entre torns son massa curts,descansos,0
+r_00359,P1,2026-09-09,Planta,Fabrica,Movil-QR,3,2,3,5,3,88,Muy buen ambientte en el equipo,ambiente,0
+r_00360,P2,2026-10-26,Manager,Oficina,Teams,5,5,5,4,2,78,El sistema de reservas va muy lento...,herramientas,0
+r_00361,P2,2026-10-30,Comercial,Oficina,Movil-QR,5,4,3,4,4,30,Me gusta trabajar con mis companeros,ambiente,0
+r_00362,P1,2026-09-24,Oficina,Oficina,Teams,4,5,5,4,2,72,els descansos entre torns son massa curts,descansos,0
+r_00363,P2,2026-10-06,Comercial,Oficina,Movil-QR,3,5,5,4,4,64,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00364,P1,2026-09-04,Planta,Fabrica,Movil-QR,4,3,3,3,3,39,Faltan herramientas para trabajar mas rapido.,herramientas,0
+r_00365,P1,2026-09-11,Planta,Fabrica,Correu,3,1,3,2,3,65,en general bien,otros,0
+r_00366,P1,2026-09-17,Logistica,Magatzem,Movil-QR,4,1,2,2,3,78,Els descansos entre torns son massa curts,descansos,0
+r_00367,P2,2026-10-28,Oficina,Oficina,Correu,4,4,3,4,3,34,me gustaria poder elegir mejor mis turnos Hablad con Laia Soler,turnos,1
+r_00368,P1,2026-09-22,Logistica,Magatzem,Movil-QR,3,5,4,3,3,99,falta informacion clara cuando cambia algo,comunicacion,0
+r_00369,P1,2026-09-15,Planta,Fabrica,Movil-QR,4,4,3,2,3,107,los cambios de turno nos llegan tarde,comunicacion,0
+r_00370,P2,2026-10-31,Logistica,Magatzem,Movil-QR,3,3,3,2,2,98,La aplicacion se cuelga a menudo,herramientas,0
+r_00371,P2,2026-10-13,Planta,Fabrica,Correu,4,4,4,3,1,63,Con tan poco descanso llego cansado/a al  siguiente turno,descansos,0
+r_00372,P1,2026-09-27,Oficina,Oficina,Movil-QR,4,5,3,5,4,47,Muy buen ambiente en el equipo,ambiente,0
+r_00373,P1,2026-09-09,Logistica,Magatzem,Teams,4,5,4,4,1,92,con tan poco descanso lleggo cansado/a al siguiente turno :(,descansos,0
+r_00374,P2,2026-10-07,Comercial,Oficina,Teams,5,4,4,3,3,76,Muy buen ambiente en el equipo,ambiente,0
+r_00375,P1,2026-09-07,Oficina,Oficina,Correu,5,5,4,4,4,148,La aplicacion se cuelga a menudo!!,herramientas,0
+r_00376,P2,2026-10-31,Oficina,Oficina,Correu,4,3,3,3,5,124,Me vendria bien poder teletrabajar algun dia!!,horarios,0
+r_00377,P2,2026-10-27,Comercial,Oficina,Correu,5,4,3,3,3,121,faltan herrramientas para trabajar mas rapido,herramientas,0
+r_00378,P2,2026-10-16,Comercial,Oficina,Movil-QR,2,5,2,4,4,86,Me gusta trabajar con mis companeros,ambiente,0
+r_00379,P2,2026-10-16,Oficina,Oficina,Movil-QR,4,2,3,4,4,88,Descansamos muy poco al cambiar de tarrde a manana!!,descansos,0
+r_00380,P2,2026-10-24,Logistica,Magatzem,Movil-QR,4,2,3,4,3,61,la rotacion de turnos no eesta clara,turnos,0
+r_00381,P1,2026-09-21,Comercial,Oficina,Movil-QR,4,4,4,4,3,35,Se nota companerismo en el dia a dia,ambiente,0
+r_00382,P2,2026-10-23,Planta,Fabrica,Movil-QR,3,4,5,5,5,32,No tengo nada que anadir,otros,0
+r_00383,P2,2026-10-06,Planta,Fabrica,Movil-QR,4,3,3,4,1,38,Se nota commpanerismo en el dia a dia,ambiente,0
+r_00384,P1,2026-09-24,Manager,Oficina,Correu,4,4,2,5,2,181,No tengo nada que  anadir,otros,0
+r_00385,P2,2026-10-18,Logistica,Magatzem,Movil-QR,2,2,3,2,2,45,"Avisen antes de los cambios, por favor Mi movil es 600 003490",comunicacion,1
+r_00386,P2,2026-10-20,Comercial,Oficina,Movil-QR,4,4,5,3,5,42,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00387,P2,2026-10-10,Manager,Oficina,Teams,5,3,3,3,3,94,Muy buen ambiente en el equiipo,ambiente,0
+r_00388,P2,2026-10-09,Planta - Turno de noche,Fabrica,Movil-QR,2,2,5,2,2,125,Entre un turno y otro casi no descanso,descansos,0
+r_00389,P1,2026-09-01,Planta,Fabrica,Movil-QR,4,4,2,5,2,63,Ok...,otros,0
+r_00390,P1,2026-09-12,Planta - Turno de noche,Fabrica,Movil-QR,4,1,3,3,3,178,Se agradece que se reconozca el trabajoo bien hecho,reconocimiento,0
+r_00391,P2,2026-10-05,Comercial,Oficina,Movil-QR,4,3,5,3,4,66,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00392,P2,2026-10-29,Comercial,Oficina,Teams,3,3,4,4,4,165,La rotacion de turnnos no esta clara,turnos,0
+r_00393,P2,2026-10-19,Logistica,Magatzem,Movil-QR,4,2,3,3,2,61,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00394,P2,2026-10-24,Planta,Fabrica,Movil-QR,4,2,3,1,2,87,Se nota companerismo en el dia a dia,ambiente,0
+r_00395,P2,2026-10-25,Oficina,Oficina,Correu,4,3,3,4,3,112,Me vendria bien poder teletrabajar algun dia.,horarios,0
+r_00396,P1,2026-09-16,Comercial,Oficina,Movil-QR,4,3,5,3,3,102,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00397,P1,2026-09-13,Planta - Turno de noche,Fabrica,Movil-QR,2,4,4,4,3,66,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00398,P2,2026-10-16,Logistica,Magatzem,Teams,3,4,5,3,3,29,Me gusta trabajar con mis companeros!!,ambiente,0
+r_00399,P2,2026-10-29,Manager,Oficina,Correu,3,4,3,5,4,107,"todo bien, sin comentarios",otros,0
+r_00400,P1,2026-09-25,Oficina,Oficina,Movil-QR,4,3,5,5,3,40,echo en falta mas formacion,formacion,0
+r_00401,P1,2026-09-11,Logistica,Magatzem,Correu,3,3,3,3,3,41,Els descansos entre torns son massa curts,descansos,0
+r_00402,P1,2026-09-23,Logistica,Magatzem,Movil-QR,3,3,4,4,1,78,Echo en falta mas formacion,formacion,0
+r_00403,P1,2026-09-22,Logistica,Magatzem,Correu,5,4,3,3,2,140,Echo en falta mas formacion,formacion,0
+r_00404,P1,2026-09-06,Planta,Fabrica,Movil-QR,4,2,3,3,2,35,Se agradece que se reconoozca el trabajo bien hecho,reconocimiento,0
+r_00405,P1,2026-09-30,Planta,Fabrica,Movil-QR,3,3,3,3,1,67,la aplicacion se cuelga a menudo,herramientas,0
+r_00406,P2,2026-10-21,Planta,Fabrica,Correu,2,2,3,4,2,64,"Todo bien, sin comentarios",otros,0
+r_00407,P1,2026-09-20,Comercial,Oficina,Movil-QR,4,2,3,4,5,73,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00408,P1,2026-09-09,Oficina,Oficina,Correu,4,2,4,3,4,27,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00409,P1,2026-09-16,Planta,Fabrica,Correu,5,4,3,2,3,53,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00410,P2,2026-10-31,Logistica,Magatzem,Correu,3,4,3,3,4,52,no sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00411,P2,2026-10-21,Comercial,Oficina,Movil-QR,5,2,3,3,5,37,La rotacion de tuurnos no esta clara,turnos,0
+r_00412,P1,2026-09-07,Oficina,Oficina,Teams,2,3,4,3,5,40,se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00413,P1,2026-09-02,Logistica,Magatzem,Correu,3,3,2,4,4,2,se nota companerismo en el dia a dia,ambiente,0
+r_00414,P1,2026-09-10,Manager,Oficina,Correu,4,5,4,4,3,90,Se nota ccompanerismo en el dia a dia...,ambiente,0
+r_00415,P2,2026-10-07,Planta,Fabrica,Movil-QR,3,3,3,3,2,76,la aplicacion se cueelga a menudo,herramientas,0
+r_00416,P2,2026-10-16,Manager,Oficina,Teams,5,4,5,5,3,201,Me vendria bien poder teletrabajar aalgun dia,horarios,0
+r_00417,P1,2026-09-11,Planta,Fabrica,Correu,4,2,5,4,3,84,me gusta  trabajar con mis companeros :(,ambiente,0
+r_00418,P2,2026-10-29,Logistica,Magatzem,Movil-QR,2,2,4,3,2,81,echo en falta maas formacion...,formacion,0
+r_00419,P1,2026-09-04,Comercial,Oficina,Teams,4,2,2,3,5,30,Me gusta trabajar con mis companeros,ambiente,0
+r_00420,P2,2026-10-25,Planta,Fabrica,Movil-QR,4,2,2,2,2,120,"Avisen antes de los cambios, por favor.",comunicacion,0
+r_00421,P2,2026-10-18,Planta,Fabrica,Correu,4,1,3,3,2,125,En general bien,otros,0
+r_00422,P1,2026-09-01,Logistica,Magatzem,Teams,2,3,3,2,3,117,"todo bien, sin comentarios",otros,0
+r_00423,P2,2026-10-08,Oficina,Oficina,Correu,4,4,3,3,5,38,El sistema de reservas va muy lento,herramientas,0
+r_00424,P1,2026-09-16,Comercial,Oficina,Movil-QR,4,3,3,2,4,76,muy buen ambiente en el equipo,ambiente,0
+r_00425,P2,2026-10-09,Logistica,Magatzem,Movil-QR,3,2,4,4,2,93,Me gusta trabajar con mis companeros,ambiente,0
+r_00426,P2,2026-10-31,Planta,Fabrica,Correu,4,3,5,4,2,83,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00427,P1,2026-09-04,Planta,Fabrica,Movil-QR,3,5,2,3,2,40,"Todo bien, sin comentarios",otros,0
+r_00428,P1,2026-09-05,Comercial,Oficina,Correu,4,3,3,5,5,75,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00429,P1,2026-09-20,Oficina,Oficina,Movil-QR,3,3,5,5,4,39,Muy buen ambiente en el equipo,ambiente,0
+r_00430,P2,2026-10-28,Oficina,Oficina,Correu,4,4,3,3,5,134,El sistema de  reservas va muy lento,herramientas,0
+r_00431,P2,2026-10-17,Planta,Fabrica,Movil-QR,3,2,4,3,4,75,los cambios de turno nos llegan tarde,comunicacion,0
+r_00432,P1,2026-09-11,Planta,Fabrica,Movil-QR,5,2,3,3,2,75,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00433,P2,2026-10-03,Planta,Fabrica,Movil-QR,4,4,4,2,2,93,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00434,P1,2026-09-03,Planta,Fabrica,Correu,3,3,3,1,4,73,Descansamos muy poco al cambiar de tarde a manana :(,descansos,0
+r_00435,P1,2026-09-03,Planta,Fabrica,Movil-QR,5,3,1,3,3,34,echo en falta mas formacion,formacion,0
+r_00436,P1,2026-09-19,Comercial,Oficina,Movil-QR,3,4,4,2,3,65,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00437,P1,2026-09-13,Logistica,Magatzem,Correu,3,2,4,5,2,56,descansamos muy poco al cambiar de tarde a manana :(,descansos,0
+r_00438,P1,2026-09-07,Planta,Fabrica,Correu,4,4,1,3,3,138,Se nota companerismo en el dia a dia,ambiente,0
+r_00439,P1,2026-09-18,Planta,Fabrica,Movil-QR,4,2,4,3,3,222,No tengo nada que anadir,otros,0
+r_00440,P1,2026-09-11,Oficina,Oficina,Teams,5,4,3,2,5,57,Ok,otros,0
+r_00441,P1,2026-09-17,Planta,Fabrica,Movil-QR,4,2,4,3,2,83,me vendria bien poderr teletrabajar algun dia...,horarios,0
+r_00442,P1,2026-09-17,Logistica,Magatzem,Movil-QR,5,3,2,3,5,83,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00443,P2,2026-10-19,Planta,Fabrica,Correu,5,2,3,3,2,143,el sistema de reservvas va muy lento,herramientas,0
+r_00444,P2,2026-10-06,Oficina,Oficina,Teams,4,2,4,4,3,93,se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00445,P2,2026-10-23,Oficina,Oficina,Teams,4,2,4,5,4,227,se nota companerismo en el dia a dia,ambiente,0
+r_00446,P1,2026-09-10,Oficina,Oficina,Correu,4,4,3,4,4,105,Se nota companerismo en el dia a dia,ambiente,0
+r_00447,P1,2026-09-11,Planta,Fabrica,Correu,3,5,3,5,2,95,ok,otros,0
+r_00448,P1,2026-09-02,Manager,Oficina,Correu,4,4,3,3,4,55,en general bien,otros,0
+r_00449,P2,2026-10-11,Planta,Fabrica,Movil-QR,2,2,2,3,3,52,Entre un turno y otro casi no descanso,descansos,0
+r_00450,P2,2026-10-31,Planta,Fabrica,Movil-QR,5,3,3,3,3,50,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00451,P2,2026-10-23,Planta,Fabrica,Movil-QR,3,4,3,2,2,83,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00452,P2,2026-10-08,Planta,Fabrica,Movil-QR,4,2,3,3,2,70,En geeneral bien,otros,0
+r_00453,P2,2026-10-23,Planta,Fabrica,Movil-QR,3,5,3,2,1,2,Entre un turno y otro casi no descanso,descansos,0
+r_00454,P1,2026-09-28,Logistica,Magatzem,Movil-QR,5,5,3,3,3,36,entre un turno y otro casi no descanso,descansos,0
+r_00455,P2,2026-10-23,Oficina,Oficina,Teams,5,4,4,3,4,50,el sistema de reservas va muy lento,herramientas,0
+r_00456,P2,2026-10-03,Planta,Fabrica,Correu,3,3,4,4,3,61,la rotacion de turnos no esta clara,turnos,0
+r_00457,P2,2026-10-17,Manager,Oficina,Teams,3,5,3,4,5,91,En general bien!!,otros,0
+r_00458,P1,2026-09-11,Manager,Oficina,Correu,5,3,4,2,3,40,"avisen anttes de los cambios, por favor",comunicacion,0
+r_00459,P2,2026-10-03,Planta,Fabrica,Correu,4,1,3,4,2,74,se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00460,P1,2026-09-25,Planta - Turno de noche,Fabrica,Movil-QR,3,3,2,3,3,84,Ok Hablad con Pedro Gomez,otros,1
+r_00461,P2,2026-10-11,Oficina,Oficina,Correu,3,4,5,2,4,115,Me vendria bien poder teletrabbajar algun dia!!,horarios,0
+r_00462,P2,2026-10-27,Planta,Fabrica,Movil-QR,4,4,3,2,1,90,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00463,P2,2026-10-17,Oficina,Oficina,Correu,3,4,4,4,4,67,Muy buen ambiente en el equipo :(,ambiente,0
+r_00464,P1,2026-09-03,Planta,Fabrica,Movil-QR,1,3,4,5,3,67,no tengo nada quue anadir,otros,0
+r_00465,P1,2026-09-27,Oficina,Oficina,Teams,4,4,4,3,5,115,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00466,P2,2026-10-26,Comercial,Oficina,Movil-QR,4,4,3,4,4,186,Me vendria bien pooder teletrabajar algun dia,horarios,0
+r_00467,P2,2026-10-28,Oficina,Oficina,Movil-QR,5,3,2,4,5,52,la rotacion de turnos no esta clara,turnos,0
+r_00468,P2,2026-10-08,Planta,Fabrica,Correu,5,4,3,4,4,86,Entre un turno y otro casi no descanso,descansos,0
+r_00469,P1,2026-09-25,Planta,Fabrica,Movil-QR,3,3,3,5,3,62,En general bien,otros,0
+r_00470,P1,2026-09-07,Logistica,Magatzem,Correu,5,2,4,4,2,67,echo en falta mas formacion,formacion,0
+r_00471,P2,2026-10-11,Planta - Turno de noche,Fabrica,Correu,4,3,4,2,3,39,Se nota ccompanerismo en el dia a dia,ambiente,0
+r_00472,P2,2026-10-13,Oficina,Oficina,Movil-QR,4,4,4,2,5,83,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00473,P2,2026-10-10,Oficina,Oficina,Correu,4,4,3,4,3,71,echo en falta mas formacion,formacion,0
+r_00474,P2,2026-10-02,Comercial,Oficina,Correu,4,3,4,4,3,116,se nota companerismo en el dia a dia,ambiente,0
+r_00475,P1,2026-09-12,Logistica,Magatzem,Movil-QR,4,3,3,3,3,188,no tengo nada que anadir,otros,0
+r_00476,P1,2026-09-04,Logistica,Magatzem,Correu,4,4,2,2,3,80,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00477,P2,2026-10-10,Logistica,Magatzem,Movil-QR,4,2,4,2,1,33,Els descansos entre torns son massa curts,descansos,0
+r_00478,P2,2026-10-19,Manager,Oficina,Teams,3,4,2,2,5,30,No sabemos que ha cambbiado hasta el ultimo momento,comunicacion,0
+r_00479,P1,2026-09-18,Comercial,Oficina,Correu,3,3,4,4,3,109,Me gusta trabajar con miss companeros,ambiente,0
+r_00480,P1,2026-09-12,Manager,Oficina,Correu,5,5,4,4,4,86,Me gustaria poder elegir mejor mis turnos... Escribidme a nuria.pons@correo.example,turnos,1
+r_00481,P2,2026-10-21,Logistica,Magatzem,Movil-QR,5,2,4,3,2,105,El calendario de turnos sale muuy tarde,turnos,0
+r_00482,P1,2026-09-22,Oficina,Oficina,Teams,4,4,3,4,4,46,El sistema de reservas va muy lento,herramientas,0
+r_00483,P2,2026-10-26,Planta,Fabrica,Movil-QR,5,3,3,2,2,85,Muy buen ambiente en el equipo!!,ambiente,0
+r_00484,P2,2026-10-28,Planta,Fabrica,Movil-QR,5,5,5,3,2,54,no tengo nadaa que anadir,otros,0
+r_00485,P1,2026-09-28,Logistica,Magatzem,Movil-QR,3,4,5,4,3,42,"avisenn antes de los cambios, por favor!!",comunicacion,0
+r_00486,P1,2026-09-18,Comercial,Oficina,Teams,3,3,4,3,4,136,no tengo nada que anadir,otros,0
+r_00487,P2,2026-10-11,Oficina,Oficina,Movil-QR,4,5,2,4,3,54,Me vendria bien poder teletrabajar  algun dia :(,horarios,0
+r_00488,P1,2026-09-26,Logistica,Magatzem,Movil-QR,4,3,2,4,3,47,Els descansos entre torns son massa curts,descansos,0
+r_00489,P1,2026-09-15,Planta,Fabrica,Movil-QR,3,3,3,3,2,28,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00490,P1,2026-09-28,Logistica,Magatzem,Correu,2,2,2,3,2,32,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00491,P1,2026-09-28,Manager,Oficina,Correu,3,3,3,4,4,36,En generaal bien,otros,0
+r_00492,P1,2026-09-02,Planta,Fabrica,Movil-QR,2,4,4,3,3,63,Muy buen ambiente en el equipo...,ambiente,0
+r_00493,P1,2026-09-06,Oficina,Oficina,Movil-QR,4,1,4,4,4,45,en generall bien,otros,0
+r_00494,P2,2026-10-13,Oficina,Oficina,Correu,3,2,3,4,5,63,Seria genial tener mas flexibillidad horaria,horarios,0
+r_00495,P1,2026-09-10,Planta,Fabrica,Movil-QR,3,3,4,3,4,93,"avisen antes de los cambios, por favor.",comunicacion,0
+r_00496,P2,2026-10-17,Planta,Fabrica,Movil-QR,4,2,3,3,3,40,No tengo nada que anadir,otros,0
+r_00497,P1,2026-09-12,Planta,Fabrica,Movil-QR,4,1,3,3,3,43,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00498,P1,2026-09-10,Manager,Oficina,Movil-QR,4,3,3,5,4,86,Echo en falta mas formacion,formacion,0
+r_00499,P1,2026-09-01,Oficina,Oficina,Teams,4,2,5,3,4,73,Muy buen ambiente en el equipo,ambiente,0
+r_00500,P2,2026-10-14,Logistica,Magatzem,Movil-QR,5,2,4,3,3,2,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00501,P2,2026-10-13,Logistica,Magatzem,Teams,5,3,3,3,2,79,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00502,P1,2026-09-03,Logistica,Magatzem,Movil-QR,3,2,3,4,3,53,El sistema de reservas va muy lento,herramientas,0
+r_00503,P2,2026-10-18,Planta,Fabrica,Movil-QR,4,2,4,3,2,3,El calendario de turnos sale muy tarde...,turnos,0
+r_00504,P2,2026-10-15,Planta,Fabrica,Movil-QR,3,4,1,3,2,42,Con  tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00505,P1,2026-09-25,Planta,Fabrica,Correu,4,4,4,3,2,36,en general bien,otros,0
+r_00506,P2,2026-10-27,Logistica,Magatzem,Movil-QR,2,3,3,4,3,50,no tenngo nada que anadir,otros,0
+r_00507,P2,2026-10-23,Logistica,Magatzem,Movil-QR,4,3,3,4,4,78,la aplicacion se cuelga a menudo,herramientas,0
+r_00508,P2,2026-10-28,Planta,Fabrica,Movil-QR,4,2,4,5,3,161,Me vendria bien poder teletrabajar algun dia :(,horarios,0
+r_00509,P1,2026-09-24,Manager,Oficina,Teams,4,4,4,3,5,72,Ok,otros,0
+r_00510,P2,2026-10-02,Planta,Fabrica,Movil-QR,4,2,2,2,3,74,los cambios de turrno nos llegan tarde,comunicacion,0
+r_00511,P2,2026-10-23,Logistica,Magatzem,Correu,5,5,4,4,3,46,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00512,P1,2026-09-07,Planta,Fabrica,Movil-QR,3,4,2,3,3,59,No tengo nada que anadir,otros,0
+r_00513,P1,2026-09-07,Planta,Fabrica,Teams,5,4,2,4,3,28,muy buen ambiente en el equipo,ambiente,0
+r_00514,P2,2026-10-21,Comercial,Oficina,Movil-QR,2,3,3,3,4,37,No tengo nada qque anadir :(,otros,0
+r_00515,P1,2026-09-07,Oficina,Oficina,Correu,5,4,2,2,2,74,A veces cuesta que se valore lo que hacemos...,reconocimiento,0
+r_00516,P1,2026-09-10,Planta,Fabrica,Movil-QR,3,3,3,2,2,78,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00517,P2,2026-10-27,Planta,Fabrica,Correu,4,2,3,4,1,39,En general bien,otros,0
+r_00518,P1,2026-09-23,Comercial,Oficina,Teams,5,4,2,3,3,78,no tengo nada que aanadir,otros,0
+r_00519,P2,2026-10-05,Planta,Fabrica,Movil-QR,3,2,4,4,3,206,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00520,P1,2026-09-04,Planta,Fabrica,Movil-QR,4,1,3,5,3,104,Muy buen ambiente en el equipo,ambiente,0
+r_00521,P1,2026-09-28,Oficina,Oficina,Teams,3,3,4,3,3,125,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00522,P2,2026-10-15,Logistica,Magatzem,Correu,5,3,3,4,3,55,se nnota companerismo en el dia a dia,ambiente,0
+r_00523,P2,2026-10-21,Logistica,Magatzem,Movil-QR,4,4,3,3,4,87,Muy buen ambiente en el equipo :(,ambiente,0
+r_00524,P1,2026-09-18,Planta - Turno de noche,Fabrica,Movil-QR,3,3,3,4,1,74,me gustaria aprender cosas nuevas aqui,formacion,0
+r_00525,P1,2026-09-08,Comercial,Oficina,Correu,5,2,2,4,4,95,Me gustaria aprender cosas nuevas  aqui,formacion,0
+r_00526,P2,2026-10-18,Logistica,Magatzem,Movil-QR,4,3,4,4,3,78,Els descansos entre torns son massa curts,descansos,0
+r_00527,P1,2026-09-29,Oficina,Oficina,Correu,4,3,4,4,5,27,faltan herramientas para trabajar mas rapido,herramientas,0
+r_00528,P1,2026-09-08,Oficina,Oficina,Correu,4,3,4,4,2,67,La aplicacion se cuelga aa menudo,herramientas,0
+r_00529,P2,2026-10-03,Logistica,Magatzem,Movil-QR,4,2,3,4,4,48,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00530,P1,2026-09-27,Comercial,Oficina,Movil-QR,4,3,4,4,4,79,Ok,otros,0
+r_00531,P2,2026-10-03,Comercial,Oficina,Correu,3,3,5,3,4,78,Ok,otros,0
+r_00532,P1,2026-09-20,Logistica,Magatzem,Correu,3,4,4,3,2,25,descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00533,P2,2026-10-31,Planta,Fabrica,Movil-QR,4,3,1,2,4,113,me gustaria poder eleggir mejor mis turnos!!,turnos,0
+r_00534,P1,2026-09-29,Planta,Fabrica,Movil-QR,4,2,2,3,3,160,Me gusta trabajar con mis companeros,ambiente,0
+r_00535,P2,2026-10-22,Planta,Fabrica,Teams,4,3,3,3,1,67,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00536,P2,2026-10-22,Planta,Fabrica,Movil-QR,4,3,5,4,3,76,Entre un turno y otro casi no deescanso,descansos,0
+r_00537,P2,2026-10-21,Oficina,Oficina,Movil-QR,3,3,4,4,4,113,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00538,P1,2026-09-29,Planta,Fabrica,Movil-QR,5,3,3,3,2,49,Muy buen ambiente en el equipo,ambiente,0
+r_00539,P1,2026-09-08,Planta,Fabrica,Movil-QR,3,3,2,3,3,40,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00540,P2,2026-10-17,Planta,Fabrica,Correu,5,3,3,4,3,33,Los cambios de turno nos llegan tarrde Hablad con Pedro Gomez,comunicacion,1
+r_00541,P2,2026-10-08,Oficina,Oficina,Correu,5,2,5,3,5,42,"Todo bien, sin  comentarios",otros,0
+r_00542,P2,2026-10-16,Oficina,Oficina,Correu,5,4,2,4,4,93,"Todo bien, sin comentarios",otros,0
+r_00543,P2,2026-10-22,Logistica,Magatzem,Movil-QR,3,3,3,3,3,56,el calendario de turnos sale muy tarde,turnos,0
+r_00544,P2,2026-10-22,Planta,Fabrica,Correu,4,3,3,4,3,78,Els descansos entre torns son massa curts,descansos,0
+r_00545,P1,2026-09-12,Logistica,Magatzem,Correu,4,3,2,3,4,88,Con tan poco descanso llego cansado/a al siguiente turno,descansos,0
+r_00546,P2,2026-10-09,Comercial,Oficina,Movil-QR,3,4,3,5,5,80,"avisen antes de los cambios, por favor",comunicacion,0
+r_00547,P1,2026-09-21,Planta,Fabrica,Movil-QR,4,2,3,2,3,98,Muy buen ambiente en el equipo,ambiente,0
+r_00548,P2,2026-10-01,Manager,Oficina,Correu,3,4,4,5,4,59,Echo en falta mas formacion,formacion,0
+r_00549,P1,2026-09-25,Manager,Oficina,Teams,4,4,2,4,4,85,Faltan herramientas para trabajar mas rapido.,herramientas,0
+r_00550,P1,2026-09-15,Oficina,Oficina,Teams,2,4,5,3,4,74,ok...,otros,0
+r_00551,P1,2026-09-21,Planta,Fabrica,Correu,5,2,2,4,4,44,Echo en falta mas formacion,formacion,0
+r_00552,P1,2026-09-21,Planta - Turno de noche,Fabrica,Movil-QR,3,3,4,3,3,25,"Todo bien, sin comentarios",otros,0
+r_00553,P1,2026-09-02,Planta,Fabrica,Movil-QR,4,2,3,2,3,160,ok...,otros,0
+r_00554,P2,2026-10-13,Oficina,Oficina,Correu,4,3,4,4,4,34,"todo bien, sin comentarios",otros,0
+r_00555,P1,2026-09-30,Planta,Fabrica,Movil-QR,2,1,2,3,2,80,falta informacion clara cuaando cambia algo!!,comunicacion,0
+r_00556,P2,2026-10-22,Comercial,Oficina,Correu,4,3,3,4,3,38,Muy buen ambiente en el equipo,ambiente,0
+r_00557,P1,2026-09-21,Comercial,Oficina,Correu,4,3,4,3,3,61,se nota companerismo en el dia a dia,ambiente,0
+r_00558,P2,2026-10-16,Logistica,Magatzem,Correu,2,3,2,3,3,49,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00559,P2,2026-10-07,Planta,Fabrica,Correu,3,4,5,3,3,53,se nota companerismo en el dia a dia,ambiente,0
+r_00560,P1,2026-09-05,Oficina,Oficina,Correu,5,3,4,5,4,87,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00561,P2,2026-10-19,Oficina,Oficina,Correu,4,3,5,4,5,31,El sistema de reservas va muy lento,herramientas,0
+r_00562,P1,2026-09-08,Planta,Fabrica,Movil-QR,3,3,4,3,2,100,Me gusta trabajar con mis companeros,ambiente,0
+r_00563,P1,2026-09-21,Logistica,Magatzem,Movil-QR,3,3,2,3,1,72,La rotacion de turnos no esta clara,turnos,0
+r_00564,P1,2026-09-01,Logistica,Magatzem,Movil-QR,4,4,3,4,2,39,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00565,P2,2026-10-29,Planta,Fabrica,Correu,4,2,3,4,4,100,En general bien,otros,0
+r_00566,P1,2026-09-18,Comercial,Oficina,Teams,4,4,3,3,5,99,Se nota companerismmo en el dia a dia,ambiente,0
+r_00567,P1,2026-09-21,Planta,Fabrica,Correu,5,2,3,3,3,50,a veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00568,P2,2026-10-06,Oficina,Oficina,Correu,4,3,5,4,4,78,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00569,P2,2026-10-08,Planta,Fabrica,Movil-QR,3,3,4,4,2,36,entre un turno y otro casi no descanso,descansos,0
+r_00570,P2,2026-10-01,Planta - Turno de noche,Fabrica,Correu,1,4,3,3,2,98,falta informacion clara cuando cambia algo,comunicacion,0
+r_00571,P1,2026-09-26,Logistica,Magatzem,Correu,4,2,2,3,2,94,"todo bien, sin comentarios",otros,0
+r_00572,P1,2026-09-10,Oficina,Oficina,Teams,5,3,5,4,1,22,Se nota compannerismo en el dia a dia,ambiente,0
+r_00573,P2,2026-10-21,Planta,Fabrica,Movil-QR,2,2,3,3,1,22,Se nota companerismo en el dia a dia,ambiente,0
+r_00574,P1,2026-09-10,Planta,Fabrica,Movil-QR,5,3,3,3,3,116,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00575,P1,2026-09-16,Comercial,Oficina,Movil-QR,4,4,3,3,3,91,La aplicacion se cuelga a menudo,herramientas,0
+r_00576,P1,2026-09-06,Logistica,Magatzem,Movil-QR,3,4,3,3,3,58,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00577,P2,2026-10-26,Oficina,Oficina,Correu,3,5,5,3,2,60,El sistema de reservas va muy lento,herramientas,0
+r_00578,P2,2026-10-29,Oficina,Oficina,Correu,5,3,5,4,3,77,En general bien,otros,0
+r_00579,P2,2026-10-08,Oficina,Oficina,Teams,4,3,4,3,3,144,Se nota companerismo en el dia a dia,ambiente,0
+r_00580,P2,2026-10-19,Planta,Fabrica,Movil-QR,3,3,2,2,1,40,Se nota companerismo en el dia a dia.,ambiente,0
+r_00581,P2,2026-10-01,Planta - Turno de noche,Fabrica,Movil-QR,5,3,3,2,4,32,El calendario de turnos sale muy tarde,turnos,0
+r_00582,P1,2026-09-15,Comercial,Oficina,Correu,4,3,3,4,4,53,Se agradece que se reconozca el trabajo bien hecho,reconocimiento,0
+r_00583,P1,2026-09-06,Logistica,Magatzem,Movil-QR,2,3,3,2,3,68,se nota companerismo en el dia a dia,ambiente,0
+r_00584,P1,2026-09-15,Planta,Fabrica,Teams,3,3,3,4,3,44,La rotaccion de turnos no esta clara...,turnos,0
+r_00585,P1,2026-09-27,Planta,Fabrica,Correu,4,3,3,2,2,3,No tengo nada que anadir :(,otros,0
+r_00586,P2,2026-10-02,Planta,Fabrica,Teams,3,3,3,4,2,69,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00587,P1,2026-09-03,Planta,Fabrica,Movil-QR,4,1,4,4,2,73,Els descansos entre torns son massa curts,descansos,0
+r_00588,P2,2026-10-28,Logistica,Magatzem,Movil-QR,2,3,3,5,2,45,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00589,P2,2026-10-30,Logistica,Magatzem,Correu,3,2,4,4,3,52,En ggeneral bien.,otros,0
+r_00590,P2,2026-10-12,Oficina,Oficina,Correu,3,4,3,5,5,75,A veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00591,P2,2026-10-18,Planta,Fabrica,Movil-QR,5,3,4,3,2,120,el sistema de reservas va muy lento,herramientas,0
+r_00592,P2,2026-10-19,Planta,Fabrica,Correu,3,2,3,4,2,58,els descansos entre torns son massa curts...,descansos,0
+r_00593,P2,2026-10-18,Logistica,Magatzem,Movil-QR,2,4,2,4,3,172,Els descansos entre torns son massa curts,descansos,0
+r_00594,P2,2026-10-09,Logistica,Magatzem,Movil-QR,3,3,3,4,2,91,Muy buen ambiente en el equipo,ambiente,0
+r_00595,P2,2026-10-30,Planta,Fabrica,Correu,4,3,3,2,2,51,me gustaria poder elegir mejor mis turnos,turnos,0
+r_00596,P1,2026-09-08,Oficina,Oficina,Correu,3,4,4,3,3,82,la apllicacion se cuelga a menudo :(,herramientas,0
+r_00597,P2,2026-10-19,Planta,Fabrica,Correu,2,4,2,4,1,63,El calenndario de turnos sale muy tarde...,turnos,0
+r_00598,P1,2026-09-23,Logistica,Magatzem,Correu,4,4,3,4,3,36,Entre un turno y otro casi no descanso,descansos,0
+r_00599,P2,2026-10-31,Planta,Fabrica,Correu,4,4,2,3,1,53,se nota companerismo enn el dia a dia,ambiente,0
+r_00600,P2,2026-10-04,Logistica,Magatzem,Movil-QR,4,2,2,3,2,59,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00601,P2,2026-10-29,Manager,Oficina,Teams,4,4,3,4,5,77,La rotacion de turnos no esta clara,turnos,0
+r_00602,P2,2026-10-18,Comercial,Oficina,Correu,3,4,5,4,3,125,El sistema de reservas va muy  lento,herramientas,0
+r_00603,P1,2026-09-03,Planta,Fabrica,Correu,2,3,3,3,2,134,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00604,P1,2026-09-22,Manager,Oficina,Teams,3,4,3,5,4,35,La aplicacion se cuelga a menudo.,herramientas,0
+r_00605,P2,2026-10-18,Planta,Fabrica,Correu,3,4,4,5,3,62,No tengo nada que anadir,otros,0
+r_00606,P2,2026-10-27,Planta,Fabrica,Correu,4,2,4,5,3,103,me gusta trabajar con mis companeros,ambiente,0
+r_00607,P2,2026-10-06,Oficina,Oficina,Correu,4,4,3,4,4,82,ok,otros,0
+r_00608,P2,2026-10-08,Comercial,Oficina,Correu,4,4,3,5,4,24,No tengo nada que anadir :(,otros,0
+r_00609,P2,2026-10-05,Planta - Turno de noche,Fabrica,Correu,5,4,2,3,3,48,Descansamos muy poco al cambiar dde tarde a manana :(,descansos,0
+r_00610,P2,2026-10-16,Oficina,Oficina,Correu,4,2,5,4,5,36,Faltan herramientas paraa trabajar mas rapido,herramientas,0
+r_00611,P2,2026-10-09,Planta,Fabrica,Correu,4,2,2,2,3,51,ok,otros,0
+r_00612,P2,2026-10-03,Manager,Oficina,Correu,4,4,4,4,5,141,El calendario de turnos sale muy tarde,turnos,0
+r_00613,P2,2026-10-28,Manager,Oficina,Correu,4,4,3,4,2,43,se agradece que se reconozca el trabajo bien hecho...,reconocimiento,0
+r_00614,P1,2026-09-13,Comercial,Oficina,Correu,4,3,1,5,4,48,el calendario de turnos sale muy tarde :(,turnos,0
+r_00615,P1,2026-09-04,Oficina,Oficina,Correu,3,3,3,3,4,122,Se nota companerismo en el dia a dia :(,ambiente,0
+r_00616,P1,2026-09-30,Comercial,Oficina,Movil-QR,5,3,3,5,4,104,Se nota companerismo en el dia a dia,ambiente,0
+r_00617,P1,2026-09-06,Planta,Fabrica,Movil-QR,3,3,4,4,2,82,"Todo bien, sin comentarios...",otros,0
+r_00618,P1,2026-09-05,Planta,Fabrica,Correu,4,2,3,3,4,41,Ok,otros,0
+r_00619,P2,2026-10-02,Planta,Fabrica,Movil-QR,4,3,3,2,2,93,me gustaa trabajar con mis companeros,ambiente,0
+r_00620,P2,2026-10-29,Planta,Fabrica,Movil-QR,4,4,2,3,2,50,Se agradece que se reconozca el trabajo biien hecho :(,reconocimiento,0
+r_00621,P1,2026-09-26,Planta,Fabrica,Correu,4,3,5,3,2,40,la rotacion de turnos no esta clara,turnos,0
+r_00622,P1,2026-09-22,Planta,Fabrica,Teams,5,4,3,1,4,39,La aplicacion se cuelga a menudo,herramientas,0
+r_00623,P2,2026-10-04,Planta,Fabrica,Movil-QR,4,3,3,4,4,81,"Todo bien, sin comentarios",otros,0
+r_00624,P2,2026-10-30,Comercial,Oficina,Movil-QR,5,3,4,3,5,73,faltan herramientas para trabajar mas rapido,herramientas,0
+r_00625,P1,2026-09-02,Planta,Fabrica,Movil-QR,5,4,3,2,3,71,El calendario de turnos sale muy tarde!!,turnos,0
+r_00626,P1,2026-09-10,Planta,Fabrica,Movil-QR,3,2,3,3,3,61,Me gusta trabajar con mis companeros,ambiente,0
+r_00627,P1,2026-09-23,Logistica,Magatzem,Correu,3,3,5,3,2,84,Me gusta trabajar con mis companeros,ambiente,0
+r_00628,P1,2026-09-05,Planta,Fabrica,Correu,3,1,3,4,3,78,En general bien,otros,0
+r_00629,P1,2026-09-15,Planta,Fabrica,Movil-QR,4,3,3,2,2,60,La rotacion de turnoss no esta clara,turnos,0
+r_00630,P1,2026-09-18,Planta,Fabrica,Movil-QR,5,3,5,4,4,83,"Todo bien, sin comentarios",otros,0
+r_00631,P1,2026-09-10,Comercial,Oficina,Movil-QR,4,3,5,4,4,34,me gusta trabajar con mis companeros,ambiente,0
+r_00632,P1,2026-09-23,Planta,Fabrica,Movil-QR,4,5,4,3,3,205,Los cambios dee turno nos llegan tarde,comunicacion,0
+r_00633,P2,2026-10-23,Planta,Fabrica,Movil-QR,4,3,3,2,3,56,Entre un turno y otro casi no descanso!!,descansos,0
+r_00634,P2,2026-10-25,Planta - Turno de noche,Fabrica,Movil-QR,2,2,3,3,3,193,Falta informacion clara cuando caambia algo :(,comunicacion,0
+r_00635,P2,2026-10-16,Comercial,Oficina,Teams,2,3,2,4,2,69,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00636,P1,2026-09-13,Oficina,Oficina,Correu,5,4,3,4,4,100,Me gusta trabajar con mis companeros,ambiente,0
+r_00637,P2,2026-10-02,Logistica,Magatzem,Movil-QR,5,3,2,3,2,37,En general bien,otros,0
+r_00638,P1,2026-09-02,Logistica,Magatzem,Teams,4,3,3,1,2,48,"Todo bien, sin comentarios",otros,0
+r_00639,P2,2026-10-31,Manager,Oficina,Correu,5,2,2,5,4,53,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00640,P1,2026-09-16,Oficina,Oficina,Teams,3,2,2,3,3,53,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00641,P2,2026-10-01,Comercial,Oficina,Teams,3,3,3,3,3,82,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00642,P2,2026-10-31,Oficina,Oficina,Correu,5,2,2,3,5,42,El sistema de reservas va muy lento,herramientas,0
+r_00643,P2,2026-10-13,Planta,Fabrica,Movil-QR,5,2,4,4,2,64,El sistema de reservas va muy lento,herramientas,0
+r_00644,P1,2026-09-15,Logistica,Magatzem,Movil-QR,3,2,3,3,1,42,"Avisen antes de los cambios, por favor!!",comunicacion,0
+r_00645,P2,2026-10-31,Planta,Fabrica,Correu,5,3,2,3,2,68,entre un turno y otro casi no ddescanso,descansos,0
+r_00646,P2,2026-10-10,Planta,Fabrica,Correu,4,3,2,3,2,91,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00647,P2,2026-10-01,Planta,Fabrica,Correu,3,3,4,5,2,109,No sabemos que ha cambiado hasta el ultimo momento.,comunicacion,0
+r_00648,P2,2026-10-28,Logistica,Magatzem,Movil-QR,5,4,3,3,3,139,a veces cuesta que se valoore lo que hacemos,reconocimiento,0
+r_00649,P2,2026-10-26,Oficina,Oficina,Correu,3,4,4,3,3,83,ok,otros,0
+r_00650,P1,2026-09-04,Planta,Fabrica,Movil-QR,4,4,4,3,1,109,se nota companerismo en el dia a dia.,ambiente,0
+r_00651,P2,2026-10-31,Planta,Fabrica,Correu,3,4,4,4,3,108,Entre un turno y otro casi no descanso,descansos,0
+r_00652,P1,2026-09-15,Oficina,Oficina,Movil-QR,5,3,3,4,4,68,El sistema de reservas va muyy lento...,herramientas,0
+r_00653,P2,2026-10-22,Comercial,Oficina,Correu,1,4,4,4,2,125,Me gustaria aprender cosas nuevas aqui,formacion,0
+r_00654,P1,2026-09-27,Planta,Fabrica,Movil-QR,3,4,3,3,1,91,los cambios de turno nos llegan tarde,comunicacion,0
+r_00655,P1,2026-09-17,Oficina,Oficina,Correu,5,4,5,3,4,68,El calendario de turnos sale muy tarde,turnos,0
+r_00656,P1,2026-09-19,Logistica,Magatzem,Movil-QR,2,3,4,5,4,91,"Avisen antes de loss cambios, por favor",comunicacion,0
+r_00657,P2,2026-10-19,Logistica,Magatzem,Movil-QR,2,4,1,3,3,70,la rotacion de turnos no esta clara,turnos,0
+r_00658,P1,2026-09-23,Oficina,Oficina,Teams,4,3,2,4,4,70,En general bien,otros,0
+r_00659,P2,2026-10-30,Planta,Fabrica,Teams,3,4,3,3,4,80,Los cambios de turno nos llegan tarde,comunicacion,0
+r_00660,P2,2026-10-26,Oficina,Oficina,Correu,5,3,4,4,4,43,"todo bien, sin comentarios",otros,0
+r_00661,P1,2026-09-10,Planta,Fabrica,Correu,4,1,1,4,2,67,echo en fallta mas formacion,formacion,0
+r_00662,P2,2026-10-09,Comercial,Oficina,Correu,3,4,3,3,5,31,Me gusta trabajar con mis companeros.,ambiente,0
+r_00663,P1,2026-09-24,Planta,Fabrica,Movil-QR,3,3,3,3,3,63,"Avisen antes de los cambios, por favor",comunicacion,0
+r_00664,P1,2026-09-15,Planta,Fabrica,Movil-QR,3,3,4,4,3,63,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00665,P2,2026-10-11,Logistica,Magatzem,Movil-QR,3,4,2,5,2,87,se agradece que se reconozca eel trabajo bien hecho,reconocimiento,0
+r_00666,P2,2026-10-30,Manager,Oficina,Correu,4,4,4,5,4,70,me vendria bien poder teletrabajar algun dia.,horarios,0
+r_00667,P2,2026-10-12,Planta,Fabrica,Correu,4,2,2,3,1,79,muy buen ambiente en el equipo Hablad con Marc Vidal,ambiente,1
+r_00668,P2,2026-10-03,Planta,Fabrica,Correu,4,2,2,4,1,43,"todo bien, sin comentarios",otros,0
+r_00669,P2,2026-10-28,Logistica,Magatzem,Correu,3,3,5,3,4,31,Muy buen ambiente en el equipo,ambiente,0
+r_00670,P2,2026-10-29,Comercial,Oficina,Movil-QR,4,1,3,4,3,41,seria genial tener mas fllexibilidad horaria,horarios,0
+r_00671,P1,2026-09-27,Comercial,Oficina,Movil-QR,5,5,4,3,1,34,Serria genial tener mas flexibilidad horaria,horarios,0
+r_00672,P1,2026-09-27,Oficina,Oficina,Teams,3,4,3,3,4,83,Se nota companerismo en el dia a dia,ambiente,0
+r_00673,P1,2026-09-22,Oficina,Oficina,Teams,3,5,4,4,4,66,Entre un turno y otro casi no descanso,descansos,0
+r_00674,P1,2026-09-11,Planta,Fabrica,Correu,3,2,4,3,2,77,No tengo nada que anadir,otros,0
+r_00675,P1,2026-09-25,Oficina,Oficina,Movil-QR,4,3,4,4,3,71,"Avisen antes de los cambios, por favor.",comunicacion,0
+r_00676,P1,2026-09-11,Planta,Fabrica,Movil-QR,3,3,2,5,2,82,ok :(,otros,0
+r_00677,P1,2026-09-21,Logistica,Magatzem,Correu,2,2,3,4,1,72,a veces cuesta que se valore lo que hacemos,reconocimiento,0
+r_00678,P2,2026-10-15,Logistica,Magatzem,Movil-QR,5,4,5,5,1,116,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00679,P2,2026-10-30,Planta,Fabrica,Movil-QR,3,3,4,3,3,62,Se nota companerismo en el dia a dia,ambiente,0
+r_00680,P1,2026-09-19,Logistica,Magatzem,Teams,4,3,4,4,3,35,Descansamos muy poco al cambiar de tarde a manana,descansos,0
+r_00681,P2,2026-10-25,Planta - Turno de noche,Fabrica,Movil-QR,3,3,3,3,2,99,No tengo nada que anadir,otros,0
+r_00682,P1,2026-09-08,Comercial,Oficina,Movil-QR,4,3,2,5,3,117,en general bien,otros,0
+r_00683,P2,2026-10-06,Logistica,Magatzem,Correu,3,2,4,3,3,23,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00684,P1,2026-09-29,Oficina,Oficina,Movil-QR,3,5,4,3,5,88,Faltaan herramientas para trabajar mas rapido :(,herramientas,0
+r_00685,P2,2026-10-17,Logistica,Magatzem,Correu,4,2,3,2,3,77,En general bien,otros,0
+r_00686,P2,2026-10-02,Oficina,Oficina,Correu,5,3,3,5,4,98,Me gusta trabajar coon mis companeros,ambiente,0
+r_00687,P1,2026-09-09,Planta,Fabrica,Correu,4,4,3,2,1,81,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00688,P2,2026-10-26,Planta,Fabrica,Correu,4,2,3,5,3,65,muy buen ambiente en el equipo...,ambiente,0
+r_00689,P1,2026-09-21,Planta,Fabrica,Movil-QR,3,4,4,4,2,161,no sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00690,P1,2026-09-12,Oficina,Oficina,Movil-QR,5,5,4,2,4,56,No sabemos que ha cambiado hasta el ultimo momento,comunicacion,0
+r_00691,P1,2026-09-22,Comercial,Oficina,Correu,3,3,5,3,3,39,Me gusta trabajar con mis companeros,ambiente,0
+r_00692,P1,2026-09-28,Comercial,Oficina,Correu,4,2,2,4,3,90,"Todo bien, sin comentarios",otros,0
+r_00693,P2,2026-10-27,Manager,Oficina,Teams,5,2,3,4,4,56,Me gustaria aprenderr cosas nuevas aqui,formacion,0
+r_00694,P2,2026-10-22,Oficina,Oficina,Teams,3,3,3,3,3,61,me vendria bien poder teletrabajar algun dia,horarios,0
+r_00695,P2,2026-10-12,Comercial,Oficina,Correu,5,3,4,4,4,2,Me vendria bien poder teletrabajar algun dia,horarios,0
+r_00696,P1,2026-09-04,Manager,Oficina,Correu,4,2,2,3,3,43,Me gusta trabajar con mis companeros,ambiente,0
+r_00697,P2,2026-10-03,Comercial,Oficina,Movil-QR,4,4,4,4,3,97,me gusta trabajar con mis companeros,ambiente,0
+r_00698,P2,2026-10-18,Planta,Fabrica,Teams,4,2,2,3,4,107,el sistema de reservaas va muy lento,herramientas,0
+r_00699,P1,2026-09-17,Comercial,Oficina,Movil-QR,5,3,4,4,4,139,me gusta trabajar con mis companeros,ambiente,0
+r_00700,P1,2026-09-18,Planta,Fabrica,Correu,4,4,4,4,3,43,faltan herramientass para trabajar mas rapido,herramientas,0
+r_00701,P2,2026-10-11,Planta,Fabrica,Movil-QR,4,3,3,3,3,141,"Todo bbien, sin comentarios",otros,0
+r_00702,P2,2026-10-27,Planta,Fabrica,Movil-QR,4,3,2,1,1,101,Seria genial tener mas flexibilidad horaria,horarios,0
+r_00703,P2,2026-10-03,Oficina,Oficina,Correu,5,4,4,4,3,112,El calendario de turnos sale muy tarde,turnos,0
+r_00704,P2,2026-10-16,Oficina,Oficina,Correu,4,4,3,4,4,85,la aplicacion se cuelga a menudo,herramientas,0
+r_00705,P1,2026-09-21,Planta,Fabrica,Movil-QR,5,2,4,4,4,69,En general bien,otros,0
+r_00706,P2,2026-10-20,Planta,Fabrica,Movil-QR,4,3,4,3,1,34,Els descansos entre torns son massa curts,descansos,0
+r_00707,P2,2026-10-29,Logistica,Magatzem,Correu,2,3,4,3,3,87,Se nota companerismo en el diaa a dia,ambiente,0
+r_00708,P2,2026-10-28,Comercial,Oficina,Correu,4,4,4,3,5,65,No tengo nada que anadir,otros,0
+r_00709,P1,2026-09-11,Comercial,Oficina,Movil-QR,4,4,3,5,3,105,Falta informacion clara cuando cambia algo,comunicacion,0
+r_00710,P2,2026-10-30,Planta,Fabrica,Movil-QR,4,4,4,3,3,17,Echo en falta mas formacion,formacion,0
+r_00711,P2,2026-10-24,Logistica,Magatzem,Movil-QR,4,4,3,5,3,69,Muy buen ambiente en el equipo,ambiente,0
+r_00712,P1,2026-09-10,Logistica,Magatzem,Correu,4,5,3,4,1,41,Descansamos muy poco al cambiar dee tarde a manana,descansos,0
+r_00713,P1,2026-09-11,Oficina,Oficina,Movil-QR,3,3,3,5,4,93,La aplicacion se cuelga a menudo,herramientas,0
+r_00714,P2,2026-10-07,Planta,Fabrica,Movil-QR,3,2,2,2,2,31,Falta informacion clara cuando cambia algo :(,comunicacion,0
+r_00715,P1,2026-09-23,Planta,Fabrica,Movil-QR,4,3,3,5,2,119,me guusta trabajar con mis companeros,ambiente,0
+r_00716,P2,2026-10-02,Planta,Fabrica,Correu,4,4,2,5,3,75,"Todo bien, sin comentarios",otros,0
+r_00717,P1,2026-09-24,Planta,Fabrica,Movil-QR,2,4,4,3,2,141,La aplicacion se cuelga a menudo,herramientas,0
+r_00718,P1,2026-09-10,Logistica,Magatzem,Movil-QR,1,3,3,4,4,92,Descansamos muy poco al cambiar de tarde a mannana,descansos,0
+r_00719,P1,2026-09-24,Planta,Fabrica,Teams,3,4,3,3,2,52,Faltan herramientas para trabajar mas rapido,herramientas,0
+r_00720,P2,2026-10-18,Oficina,Oficina,Correu,5,4,3,4,4,54,entre un turno y otro casii no descanso,descansos,0
+r_00721,P2,2026-10-11,Planta,Fabrica,Movil-QR,5,4,3,3,4,36,ok,otros,0
+r_00722,P1,2026-09-06,Logistica,Magatzem,Movil-QR,4,3,3,2,3,55,Me gustaria poder elegir mejor mis turnos,turnos,0
+r_00723,P1,2026-09-26,Logistica,Magatzem,Correu,3,4,1,3,3,189,Descansamos muy poco al cambiar de tarde a manana,descansos,0

@@ -1,0 +1,47 @@
+{
+ "respuestas": 723,
+ "por_periodo_y_colectivo": {
+  "P2": {
+   "Planta - Turno de noche": 15,
+   "Comercial": 58,
+   "Planta": 127,
+   "Oficina": 64,
+   "Logistica": 82,
+   "Manager": 27
+  },
+  "P1": {
+   "Oficina": 62,
+   "Comercial": 55,
+   "Planta": 118,
+   "Manager": 26,
+   "Planta - Turno de noche": 12,
+   "Logistica": 77
+  }
+ },
+ "temas_por_periodo_pct": {
+  "P1": {
+   "ambiente": 22.0,
+   "otros": 20.9,
+   "herramientas": 11.1,
+   "comunicacion": 10.6,
+   "descansos": 9.4,
+   "turnos": 8.3,
+   "formacion": 6.6,
+   "reconocimiento": 5.7,
+   "horarios": 5.4
+  },
+  "P2": {
+   "otros": 17.2,
+   "descansos": 14.5,
+   "ambiente": 14.5,
+   "comunicacion": 13.7,
+   "herramientas": 12.3,
+   "turnos": 9.4,
+   "horarios": 8.6,
+   "formacion": 5.1,
+   "reconocimiento": 4.8
+  }
+ },
+ "respuestas_menos_de_4_segundos": 10,
+ "comentarios_con_dato_personal_ficticio": 8
+}
